@@ -51,7 +51,7 @@ WANTED_CURRENCIES = {
 }
 
 # Impact levels to include. FF uses: "High", "Medium", "Low", "Holiday"
-WANTED_IMPACT = {"High"}
+WANTED_IMPACT = {"High", "Medium"}
 
 # NOTE ON TIMEZONES: iCalendar events are written in UTC (the "Z" suffix
 # below) because that is the one format every calendar client -- including
