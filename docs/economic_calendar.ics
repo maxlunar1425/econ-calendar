@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//econ-calendar-script//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Economic Calendar (High Impact)
+BEGIN:VEVENT
+UID:992af53ed5eff74f@econ-calendar
+DTSTAMP:20260630T194942Z
+DTSTART:20260630T123000Z
+DTEND:20260630T130000Z
+SUMMARY:CAD - GDP m/m
+DESCRIPTION:Country/Currency: CAD\nImpact: High\nForecast: 0.4%\nPrevious: -0.1%\nSource: Forex Factory (free feed)
+END:VEVENT
+BEGIN:VEVENT
+UID:d1f218f98b27af45@econ-calendar
+DTSTAMP:20260630T194942Z
+DTSTART:20260701T130000Z
+DTEND:20260701T133000Z
+SUMMARY:GBP - BOE Gov Bailey Speaks
+DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource: Forex Factory (free feed)
+END:VEVENT
+BEGIN:VEVENT
+UID:35390f0decae9e7f@econ-calendar
+DTSTAMP:20260630T194942Z
+DTSTART:20260701T130000Z
+DTEND:20260701T133000Z
+SUMMARY:USD - Fed Chairman Warsh Speaks
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: Forex Factory (free feed)
+END:VEVENT
+BEGIN:VEVENT
+UID:60d1c92299dc498f@econ-calendar
+DTSTAMP:20260630T194942Z
+DTSTART:20260701T140000Z
+DTEND:20260701T143000Z
+SUMMARY:USD - ISM Manufacturing PMI
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 53.8\nPrevious: 54.0\nSource: Forex Factory (free feed)
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1c8588804c21d8@econ-calendar
+DTSTAMP:20260630T194942Z
+DTSTART:20260702T123000Z
+DTEND:20260702T130000Z
+SUMMARY:USD - Average Hourly Earnings m/m
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 0.3%\nPrevious: 0.3%\nSource: Forex Factory (free feed)
+END:VEVENT
+BEGIN:VEVENT
+UID:5030c08f5d8da50d@econ-calendar
+DTSTAMP:20260630T194942Z
+DTSTART:20260702T123000Z
+DTEND:20260702T130000Z
+SUMMARY:USD - Non-Farm Employment Change
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 110K\nPrevious: 172K\nSource: Forex Factory (free feed)
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d2ae64f996030b@econ-calendar
+DTSTAMP:20260630T194942Z
+DTSTART:20260702T123000Z
+DTEND:20260702T130000Z
+SUMMARY:USD - Unemployment Rate
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 4.3%\nPrevious: 4.3%\nSource: Forex Factory (free feed)
+END:VEVENT
+END:VCALENDAR
