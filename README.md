@@ -4,6 +4,9 @@ It also parse major Central Banks websites to extract meeting dates
 It saves a .ics file that Outlook will retrieve
 Outlook will also CalDav Synch with Gmail calendar for Android
 
+After a modification go to Actions and Run Workflow for:
+Update Central Bank Dates (Scraped from Official Sources) and then for Update Economic Calendar ICS
+
 
 This will automatically forever be automated. 
 The schedule runs itself. The workflow has cron: "0 6 * * 1" — every Monday at 06:00 UTC, forever, with no expiration. GitHub Actions doesn't need you to "renew" or re-trigger anything.
