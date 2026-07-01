@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//econ-calendar-script//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Data Releases (BLS/BEA)
+BEGIN:VEVENT
+UID:f2be2c528f700050@data-releases-calendar
+DTSTAMP:20260701T170050Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:USD - Personal Income and Outlays\, June 2026
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, June 2026 release (BEA feed is already in UTC\, no conversion needed)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ac527f73e64eb90f@data-releases-calendar
+DTSTAMP:20260701T170050Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:USD - Personal Income and Outlays\, July 2026
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, July 2026 release (BEA feed is already in UTC\, no conversion needed)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:aee2b3997c37053b@data-releases-calendar
+DTSTAMP:20260701T170050Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:USD - Personal Income and Outlays\, August 2026
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, August 2026 release (BEA feed is already in UTC\, no conversion needed)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:a72d6f4f38600607@data-releases-calendar
+DTSTAMP:20260701T170050Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:USD - Personal Income and Outlays\, September 2026
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, September 2026 release (BEA feed is already in UTC\, no conversion needed)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba5eb6ddfdc53bb@data-releases-calendar
+DTSTAMP:20260701T170050Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:USD - Personal Income and Outlays\, October 2026
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, October 2026 release (BEA feed is already in UTC\, no conversion needed)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:f85dc2f51b93301a@data-releases-calendar
+DTSTAMP:20260701T170050Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:USD - Personal Income and Outlays\, November 2026
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, November 2026 release (BEA feed is already in UTC\, no conversion needed)\n
+END:VEVENT
+END:VCALENDAR
