@@ -15,10 +15,27 @@
   "last_verified": "2026-07-01",
   "sources": {
     "BLS": "https://www.bls.gov/schedule/news_release/bls.ics",
-    "BEA": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
+    "BEA": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+    "DOL": "https://oui.doleta.gov/unemploy/claims_arch.asp"
   },
   "scraper_errors": [],
   "events": [
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-07-02",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-07-09",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
     {
       "bank": "BLS",
       "country": "USD",
@@ -36,6 +53,14 @@
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-07-16",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "U.S. Import and Export Price Indexes",
@@ -44,12 +69,28 @@
       "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-07-23",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, June 2026",
       "date": "2026-07-30",
       "time_utc": "12:30",
       "note": "Personal Income and Outlays, June 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-07-30",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
       "bank": "BLS",
@@ -68,6 +109,14 @@
       "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-08-06",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "Consumer Price Index",
@@ -84,12 +133,28 @@
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-08-13",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "U.S. Import and Export Price Indexes",
       "date": "2026-08-18",
       "time_utc": "12:30",
       "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-08-20",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
       "bank": "BEA",
@@ -100,6 +165,14 @@
       "note": "Personal Income and Outlays, July 2026 release (BEA feed is already in UTC, no conversion needed)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-08-27",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "Job Openings and Labor Turnover Survey",
@@ -108,12 +181,28 @@
       "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-09-03",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "Producer Price Index",
       "date": "2026-09-10",
       "time_utc": "12:30",
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-09-10",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
       "bank": "BLS",
@@ -132,6 +221,22 @@
       "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-09-17",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-09-24",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "Job Openings and Labor Turnover Survey",
@@ -146,6 +251,22 @@
       "date": "2026-09-30",
       "time_utc": "12:30",
       "note": "Personal Income and Outlays, August 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-10-01",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-10-08",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
       "bank": "BLS",
@@ -164,6 +285,14 @@
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-10-15",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "U.S. Import and Export Price Indexes",
@@ -172,12 +301,28 @@
       "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-10-22",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, September 2026",
       "date": "2026-10-29",
       "time_utc": "12:30",
       "note": "Personal Income and Outlays, September 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-10-29",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
       "bank": "BLS",
@@ -196,12 +341,28 @@
       "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-11-05",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "Consumer Price Index",
       "date": "2026-11-10",
       "time_utc": "13:30",
       "note": "Consumer Price Index release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-11-12",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
       "bank": "BLS",
@@ -220,12 +381,28 @@
       "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-11-19",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, October 2026",
       "date": "2026-11-25",
       "time_utc": "13:30",
       "note": "Personal Income and Outlays, October 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-11-25",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data -- OFFICIAL HOLIDAY EXCEPTION DATE (moved off Thursday)"
     },
     {
       "bank": "BLS",
@@ -236,12 +413,28 @@
       "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-12-03",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BLS",
       "country": "USD",
       "release": "Consumer Price Index",
       "date": "2026-12-10",
       "time_utc": "13:30",
       "note": "Consumer Price Index release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-12-10",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
       "bank": "BLS",
@@ -260,12 +453,452 @@
       "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-12-17",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, November 2026",
       "date": "2026-12-23",
       "time_utc": "13:30",
       "note": "Personal Income and Outlays, November 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-12-24",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2026-12-31",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-01-07",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-01-14",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-01-21",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-01-28",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-02-04",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-02-11",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-02-18",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-02-25",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-03-04",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-03-11",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-03-18",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-03-25",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-04-01",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-04-08",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-04-15",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-04-22",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-04-29",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-05-06",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-05-13",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-05-20",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-05-27",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-06-03",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-06-10",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-06-17",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-06-24",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-07-01",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-07-08",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-07-15",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-07-22",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-07-29",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-08-05",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-08-12",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-08-19",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-08-26",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-09-02",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-09-09",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-09-16",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-09-23",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-09-30",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-10-07",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-10-14",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-10-21",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-10-28",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-11-04",
+      "time_utc": "12:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-11-11",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-11-18",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-11-25",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-12-02",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-12-09",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-12-16",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-12-23",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "DOL",
+      "country": "USD",
+      "release": "Unemployment Insurance Weekly Claims Report",
+      "date": "2027-12-30",
+      "time_utc": "13:30",
+      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     }
   ]
 }
