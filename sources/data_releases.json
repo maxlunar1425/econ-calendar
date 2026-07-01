@@ -21,6 +21,14 @@
   "scraper_errors": [],
   "events": [
     {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Employment Situation",
+      "date": "2026-07-02",
+      "time_utc": "12:30",
+      "note": "Employment Situation release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -119,6 +127,14 @@
     {
       "bank": "BLS",
       "country": "USD",
+      "release": "Employment Situation",
+      "date": "2026-08-07",
+      "time_utc": "12:30",
+      "note": "Employment Situation release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
       "release": "Consumer Price Index",
       "date": "2026-08-12",
       "time_utc": "12:30",
@@ -191,6 +207,14 @@
     {
       "bank": "BLS",
       "country": "USD",
+      "release": "Employment Situation",
+      "date": "2026-09-04",
+      "time_utc": "12:30",
+      "note": "Employment Situation release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
       "release": "Producer Price Index",
       "date": "2026-09-10",
       "time_utc": "12:30",
@@ -259,6 +283,14 @@
       "date": "2026-10-01",
       "time_utc": "12:30",
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Employment Situation",
+      "date": "2026-10-02",
+      "time_utc": "12:30",
+      "note": "Employment Situation release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "DOL",
@@ -351,6 +383,14 @@
     {
       "bank": "BLS",
       "country": "USD",
+      "release": "Employment Situation",
+      "date": "2026-11-06",
+      "time_utc": "13:30",
+      "note": "Employment Situation release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
       "release": "Consumer Price Index",
       "date": "2026-11-10",
       "time_utc": "13:30",
@@ -419,6 +459,14 @@
       "date": "2026-12-03",
       "time_utc": "13:30",
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Employment Situation",
+      "date": "2026-12-04",
+      "time_utc": "13:30",
+      "note": "Employment Situation release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "BLS",
