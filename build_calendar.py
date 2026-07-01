@@ -33,10 +33,21 @@ DEFAULT_EVENT_DURATION_MINUTES = 30
 
 
 def make_uid(event: dict) -> str:
-    """Stable UID based on country + title (NOT date/time), so Outlook
-    treats a changed release time as an update to the same event rather
-    than a duplicate."""
-    key = f"{event.get('country','')}-{event.get('title','')}"
+    """Stable UID based on country + title + year-month of the event.
+
+    The year-month component is essential: recurring events like central
+    bank rate decisions share an identical title across every occurrence
+    ("USD - FOMC Interest Rate Decision" appears ~8 times a year). Without
+    a date component, every occurrence would collide into a single UID and
+    all but the first would be silently dropped during de-duplication.
+
+    Including only year-month (not the full date) still lets a same-month
+    time/date correction (e.g. Forex Factory revising a release time by a
+    day) be treated as an UPDATE to the same event rather than a new one,
+    which was the original point of keeping date granularity coarse."""
+    dt = datetime.fromisoformat(event["date"])
+    year_month = dt.strftime("%Y-%m")
+    key = f"{event.get('country','')}-{event.get('title','')}-{year_month}"
     digest = hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
     return f"{digest}@econ-calendar"
 
