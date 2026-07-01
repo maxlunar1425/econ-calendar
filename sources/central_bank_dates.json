@@ -1,0 +1,62 @@
+{
+  "_readme": [
+    "This file is the ONLY thing you should need to edit to keep the central bank",
+    "calendar current. It is intentionally plain JSON (no code) so it can be",
+    "updated without touching any Python.",
+    "",
+    "Each entry: { 'bank', 'country', 'date' (YYYY-MM-DD), 'time_utc' (HH:MM, 24h,",
+    "the decision announcement time converted to UTC), 'note' }.",
+    "",
+    "'country' uses the same currency-code convention as the Forex Factory source",
+    "(AUD, CAD, EUR, JPY, GBP, USD) so the two sources merge cleanly.",
+    "",
+    "HOW TO UPDATE: each central bank publishes its next year's meeting schedule",
+    "roughly 6-12 months ahead, usually between August and December for the",
+    "following year. Check back a couple of times a year and add new entries.",
+    "Official sources are listed per bank below -- always prefer the bank's own",
+    "site over any third-party aggregator.",
+    "",
+    "Last verified against official sources: 2026-06-30.",
+    "STATUS NOTE: RBA and BoJ entries below are INCOMPLETE / UNVERIFIED for the",
+    "remainder of 2026 -- see the 'placeholder' fields. Fill these in from the",
+    "official links before relying on them."
+  ],
+
+  "sources": {
+    "USD_FOMC": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    "EUR_ECB": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+    "GBP_BOE": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+    "CAD_BOC": "https://www.bankofcanada.ca/press/upcoming-events/",
+    "AUD_RBA": "https://www.rba.gov.au/schedules-events/",
+    "JPY_BOJ": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+  },
+
+  "events": [
+    { "bank": "FOMC", "country": "USD", "date": "2026-07-29", "time_utc": "18:00", "note": "Rate decision (2nd day of 2-day meeting); press conf 18:30 UTC" },
+    { "bank": "FOMC", "country": "USD", "date": "2026-09-16", "time_utc": "18:00", "note": "Rate decision; includes Summary of Economic Projections" },
+    { "bank": "FOMC", "country": "USD", "date": "2026-10-28", "time_utc": "18:00", "note": "Rate decision (2nd day of 2-day meeting)" },
+    { "bank": "FOMC", "country": "USD", "date": "2026-12-09", "time_utc": "19:00", "note": "Rate decision; includes Summary of Economic Projections" },
+
+    { "bank": "ECB", "country": "EUR", "date": "2026-07-23", "time_utc": "12:15", "note": "Rate decision; press conf 12:45 UTC" },
+    { "bank": "ECB", "country": "EUR", "date": "2026-09-10", "time_utc": "12:15", "note": "Rate decision" },
+    { "bank": "ECB", "country": "EUR", "date": "2026-10-29", "time_utc": "12:15", "note": "Rate decision" },
+    { "bank": "ECB", "country": "EUR", "date": "2026-12-17", "time_utc": "12:15", "note": "Rate decision" },
+
+    { "bank": "BOE", "country": "GBP", "date": "2026-07-30", "time_utc": "11:00", "note": "Rate decision + Monetary Policy Report" },
+    { "bank": "BOE", "country": "GBP", "date": "2026-09-17", "time_utc": "11:00", "note": "Rate decision" },
+    { "bank": "BOE", "country": "GBP", "date": "2026-11-05", "time_utc": "12:00", "note": "Rate decision + Monetary Policy Report" },
+    { "bank": "BOE", "country": "GBP", "date": "2026-12-17", "time_utc": "12:00", "note": "Rate decision" },
+
+    { "bank": "BOC", "country": "CAD", "date": "2026-07-15", "time_utc": "13:45", "note": "Rate decision + Monetary Policy Report" },
+    { "bank": "BOC", "country": "CAD", "date": "2026-09-09", "time_utc": "13:45", "note": "Rate decision" },
+    { "bank": "BOC", "country": "CAD", "date": "2026-10-28", "time_utc": "13:45", "note": "Rate decision + Monetary Policy Report" },
+    { "bank": "BOC", "country": "CAD", "date": "PLACEHOLDER", "time_utc": "PLACEHOLDER",
+      "note": "UNCONFIRMED - BoC's December 2026 date was not yet published as of last verification. Check source URL above." },
+
+    { "bank": "RBA", "country": "AUD", "date": "PLACEHOLDER", "time_utc": "PLACEHOLDER",
+      "note": "UNVERIFIED - RBA publishes its Monetary Policy Board meeting calendar at the source URL above. Fill in remaining 2026 dates from there." },
+
+    { "bank": "BOJ", "country": "JPY", "date": "PLACEHOLDER", "time_utc": "PLACEHOLDER",
+      "note": "UNVERIFIED - BoJ publishes its Monetary Policy Meeting schedule at the source URL above (updated weekly). Fill in remaining 2026 dates from there." }
+  ]
+}
