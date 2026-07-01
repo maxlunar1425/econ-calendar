@@ -1,0 +1,50 @@
+name: Update Data Releases (BLS/BEA, Scraped from Official Sources)
+
+# Runs the BLS/BEA scrapers weekly and commits the regenerated
+# sources/data_releases.json. Kept as its own workflow, separate from
+# the central bank one, since these are a different category of event
+# (scheduled data publications, not rate decisions) with their own
+# selectable watchlist (see scrapers/watched_releases.json).
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"    # every Monday at 07:00 UTC
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install curl_cffi (needed to get past BLS's TLS fingerprint block)
+        run: pip install curl_cffi
+
+      - name: Run BLS/BEA scrapers and regenerate data_releases.json
+        working-directory: scrapers
+        run: python3 build_data_releases_json.py
+
+      - name: Build standalone data releases ICS
+        run: python3 build_data_releases_ics.py
+
+      - name: Copy ICS into docs/ for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp output/data_releases.ics docs/data_releases.ics
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sources/data_releases.json docs/data_releases.ics
+          git diff --cached --quiet || git commit -m "Auto-update data releases (JSON + ICS)"
+          git push
