@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//econ-calendar-script//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Central Bank Rate Decisions
+BEGIN:VEVENT
+UID:012c03fd5481388e@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260723T121500Z
+DTEND:20260723T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:b42a1eed6243bf32@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260729T180000Z
+DTEND:20260729T183000Z
+SUMMARY:USD - FOMC Interest Rate Decision
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nNote: Rate decision (2nd day of 2-day meeting)\; press conf 18:30 UTC\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6d5dc1275a0798b6@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:GBP - BOE Interest Rate Decision
+DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates\nNote: Rate decision + Monetary Policy Report\n
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc962ba728b2c3e@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260811T043000Z
+DTEND:20260811T050000Z
+SUMMARY:AUD - RBA Interest Rate Decision
+DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.rba.gov.au/schedules-events/\nNote: Rate decision (AEST 2:30pm local\, 2026-08-11 local date)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:757cafa76ce2cf04@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260910T121500Z
+DTEND:20260910T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:55ee0f82746b423f@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260916T180000Z
+DTEND:20260916T183000Z
+SUMMARY:USD - FOMC Interest Rate Decision
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nNote: Rate decision\; includes Summary of Economic Projections\n
+END:VEVENT
+BEGIN:VEVENT
+UID:44f07464dab88a8d@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260917T110000Z
+DTEND:20260917T113000Z
+SUMMARY:GBP - BOE Interest Rate Decision
+DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates\nNote: Rate decision\n
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb4cd6ba9fea7f0@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260924T083000Z
+DTEND:20260924T090000Z
+SUMMARY:CHF - SNB Interest Rate Decision
+DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource: https://www.snb.ch/en/services-events/digital-services/event-schedule\nNote: Rate decision (09:30 local Swiss time\, CET/CEST approximation applied)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:65a7e5e04a6be8b8@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20260929T043000Z
+DTEND:20260929T050000Z
+SUMMARY:AUD - RBA Interest Rate Decision
+DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.rba.gov.au/schedules-events/\nNote: Rate decision (AEST 2:30pm local\, 2026-09-29 local date)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:da8a60ddad78a42f@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261028T180000Z
+DTEND:20261028T183000Z
+SUMMARY:USD - FOMC Interest Rate Decision
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nNote: Rate decision (2nd day of 2-day meeting)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:9c74aeae228082d5@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261029T121500Z
+DTEND:20261029T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5ff274c6e14c13@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261103T033000Z
+DTEND:20261103T040000Z
+SUMMARY:AUD - RBA Interest Rate Decision
+DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.rba.gov.au/schedules-events/\nNote: Rate decision (AEDT 2:30pm local\, 2026-11-03 local date)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:5a45ec38c3422f13@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261105T120000Z
+DTEND:20261105T123000Z
+SUMMARY:GBP - BOE Interest Rate Decision
+DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates\nNote: Rate decision + Monetary Policy Report\n
+END:VEVENT
+BEGIN:VEVENT
+UID:91a7056205ec2f86@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261208T033000Z
+DTEND:20261208T040000Z
+SUMMARY:AUD - RBA Interest Rate Decision
+DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.rba.gov.au/schedules-events/\nNote: Rate decision (AEDT 2:30pm local\, 2026-12-08 local date)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ac020ff8c305aacc@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261209T190000Z
+DTEND:20261209T193000Z
+SUMMARY:USD - FOMC Interest Rate Decision
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nNote: Rate decision\; includes Summary of Economic Projections\n
+END:VEVENT
+BEGIN:VEVENT
+UID:b104192ba6daa884@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261210T083000Z
+DTEND:20261210T090000Z
+SUMMARY:CHF - SNB Interest Rate Decision
+DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource: https://www.snb.ch/en/services-events/digital-services/event-schedule\nNote: Rate decision (09:30 local Swiss time\, CET/CEST approximation applied)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:52b45487bf1950f8@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261217T120000Z
+DTEND:20261217T123000Z
+SUMMARY:GBP - BOE Interest Rate Decision
+DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates\nNote: Rate decision\n
+END:VEVENT
+BEGIN:VEVENT
+UID:df031466e33d1e8b@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20261217T121500Z
+DTEND:20261217T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c6e98036b38d17@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270204T121500Z
+DTEND:20270204T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:fad36928333f8169@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270318T083000Z
+DTEND:20270318T090000Z
+SUMMARY:CHF - SNB Interest Rate Decision
+DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource: https://www.snb.ch/en/services-events/digital-services/event-schedule\nNote: Rate decision (09:30 local Swiss time\, CET/CEST approximation applied)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:1f73fa94afe78172@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270318T121500Z
+DTEND:20270318T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:40cb5e84ea767731@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270429T121500Z
+DTEND:20270429T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:547a43868f6c8a57@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270610T121500Z
+DTEND:20270610T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:f614d7c51bdf438e@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270624T083000Z
+DTEND:20270624T090000Z
+SUMMARY:CHF - SNB Interest Rate Decision
+DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource: https://www.snb.ch/en/services-events/digital-services/event-schedule\nNote: Rate decision (09:30 local Swiss time\, CET/CEST approximation applied)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:4d29a88392693320@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270722T121500Z
+DTEND:20270722T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:653da2a2a368550e@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270909T121500Z
+DTEND:20270909T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:11da0524970d0170@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20270923T083000Z
+DTEND:20270923T090000Z
+SUMMARY:CHF - SNB Interest Rate Decision
+DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource: https://www.snb.ch/en/services-events/digital-services/event-schedule\nNote: Rate decision (09:30 local Swiss time\, CET/CEST approximation applied)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:81720ba88b05ec40@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20271028T121500Z
+DTEND:20271028T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+BEGIN:VEVENT
+UID:5416d46676f1866e@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20271216T083000Z
+DTEND:20271216T090000Z
+SUMMARY:CHF - SNB Interest Rate Decision
+DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource: https://www.snb.ch/en/services-events/digital-services/event-schedule\nNote: Rate decision (09:30 local Swiss time\, CET/CEST approximation applied)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:bed1aa29a99e8f29@central-banks-calendar
+DTSTAMP:20260701T202341Z
+DTSTART:20271216T121500Z
+DTEND:20271216T124500Z
+SUMMARY:EUR - ECB Interest Rate Decision
+DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html\nNote: Rate decision\; press conference follows\n
+END:VEVENT
+END:VCALENDAR
