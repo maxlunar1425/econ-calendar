@@ -36,12 +36,36 @@
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "U.S. Import and Export Price Indexes",
+      "date": "2026-07-17",
+      "time_utc": "12:30",
+      "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, June 2026",
       "date": "2026-07-30",
       "time_utc": "12:30",
       "note": "Personal Income and Outlays, June 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Employment Cost Index",
+      "date": "2026-07-31",
+      "time_utc": "12:30",
+      "note": "Employment Cost Index release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Job Openings and Labor Turnover Survey",
+      "date": "2026-08-04",
+      "time_utc": "14:00",
+      "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "BLS",
@@ -60,12 +84,28 @@
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "U.S. Import and Export Price Indexes",
+      "date": "2026-08-18",
+      "time_utc": "12:30",
+      "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, July 2026",
       "date": "2026-08-26",
       "time_utc": "12:30",
       "note": "Personal Income and Outlays, July 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Job Openings and Labor Turnover Survey",
+      "date": "2026-09-01",
+      "time_utc": "14:00",
+      "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "BLS",
@@ -82,6 +122,22 @@
       "date": "2026-09-11",
       "time_utc": "12:30",
       "note": "Consumer Price Index release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "U.S. Import and Export Price Indexes",
+      "date": "2026-09-16",
+      "time_utc": "12:30",
+      "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Job Openings and Labor Turnover Survey",
+      "date": "2026-09-29",
+      "time_utc": "14:00",
+      "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "BEA",
@@ -108,12 +164,36 @@
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "U.S. Import and Export Price Indexes",
+      "date": "2026-10-16",
+      "time_utc": "12:30",
+      "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, September 2026",
       "date": "2026-10-29",
       "time_utc": "12:30",
       "note": "Personal Income and Outlays, September 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Employment Cost Index",
+      "date": "2026-10-30",
+      "time_utc": "12:30",
+      "note": "Employment Cost Index release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Job Openings and Labor Turnover Survey",
+      "date": "2026-11-03",
+      "time_utc": "15:00",
+      "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "BLS",
@@ -132,12 +212,28 @@
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
     },
     {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "U.S. Import and Export Price Indexes",
+      "date": "2026-11-17",
+      "time_utc": "13:30",
+      "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
       "bank": "BEA",
       "country": "USD",
       "release": "Personal Income and Outlays, October 2026",
       "date": "2026-11-25",
       "time_utc": "13:30",
       "note": "Personal Income and Outlays, October 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "Job Openings and Labor Turnover Survey",
+      "date": "2026-12-01",
+      "time_utc": "15:00",
+      "note": "Job Openings and Labor Turnover Survey release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "BLS",
@@ -154,6 +250,14 @@
       "date": "2026-12-15",
       "time_utc": "13:30",
       "note": "Producer Price Index release (exact EST/EDT conversion via IANA tz data)"
+    },
+    {
+      "bank": "BLS",
+      "country": "USD",
+      "release": "U.S. Import and Export Price Indexes",
+      "date": "2026-12-17",
+      "time_utc": "13:30",
+      "note": "U.S. Import and Export Price Indexes release (exact EST/EDT conversion via IANA tz data)"
     },
     {
       "bank": "BEA",
