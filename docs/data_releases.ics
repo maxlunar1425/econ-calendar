@@ -5,48 +5,144 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Data Releases (BLS/BEA)
 BEGIN:VEVENT
+UID:e3f558615ec49ded@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20260714T123000Z
+DTEND:20260714T130000Z
+SUMMARY:USD - Consumer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Consumer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:47419228336a0f1c@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20260715T123000Z
+DTEND:20260715T130000Z
+SUMMARY:USD - Producer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Producer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
 UID:f2be2c528f700050@data-releases-calendar
-DTSTAMP:20260701T172852Z
+DTSTAMP:20260701T195241Z
 DTSTART:20260730T123000Z
 DTEND:20260730T130000Z
 SUMMARY:USD - Personal Income and Outlays\, June 2026
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, June 2026 release (BEA feed is already in UTC\, no conversion needed)\n
 END:VEVENT
 BEGIN:VEVENT
+UID:66d2d5f5dcef1725@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20260812T123000Z
+DTEND:20260812T130000Z
+SUMMARY:USD - Consumer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Consumer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a178df55b97f5f@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20260813T123000Z
+DTEND:20260813T130000Z
+SUMMARY:USD - Producer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Producer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
 UID:ac527f73e64eb90f@data-releases-calendar
-DTSTAMP:20260701T172852Z
+DTSTAMP:20260701T195241Z
 DTSTART:20260826T123000Z
 DTEND:20260826T130000Z
 SUMMARY:USD - Personal Income and Outlays\, July 2026
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, July 2026 release (BEA feed is already in UTC\, no conversion needed)\n
 END:VEVENT
 BEGIN:VEVENT
+UID:d2b75b74e1597819@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20260910T123000Z
+DTEND:20260910T130000Z
+SUMMARY:USD - Producer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Producer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ca24595c1217a0fa@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20260911T123000Z
+DTEND:20260911T130000Z
+SUMMARY:USD - Consumer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Consumer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
 UID:aee2b3997c37053b@data-releases-calendar
-DTSTAMP:20260701T172852Z
+DTSTAMP:20260701T195241Z
 DTSTART:20260930T123000Z
 DTEND:20260930T130000Z
 SUMMARY:USD - Personal Income and Outlays\, August 2026
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, August 2026 release (BEA feed is already in UTC\, no conversion needed)\n
 END:VEVENT
 BEGIN:VEVENT
+UID:08e868ed1dfe8ad2@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+SUMMARY:USD - Consumer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Consumer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:0df4d6bc9e8646b9@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:USD - Producer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Producer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
 UID:a72d6f4f38600607@data-releases-calendar
-DTSTAMP:20260701T172852Z
+DTSTAMP:20260701T195241Z
 DTSTART:20261029T123000Z
 DTEND:20261029T130000Z
 SUMMARY:USD - Personal Income and Outlays\, September 2026
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, September 2026 release (BEA feed is already in UTC\, no conversion needed)\n
 END:VEVENT
 BEGIN:VEVENT
+UID:c5d56980884b9d84@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+SUMMARY:USD - Consumer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Consumer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:78aa00f806a58b44@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+SUMMARY:USD - Producer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Producer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
 UID:7ba5eb6ddfdc53bb@data-releases-calendar
-DTSTAMP:20260701T172852Z
+DTSTAMP:20260701T195241Z
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
 SUMMARY:USD - Personal Income and Outlays\, October 2026
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics\nNote: Personal Income and Outlays\, October 2026 release (BEA feed is already in UTC\, no conversion needed)\n
 END:VEVENT
 BEGIN:VEVENT
+UID:a962f59951822de4@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:USD - Consumer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Consumer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
+UID:a310c0f39919cf37@data-releases-calendar
+DTSTAMP:20260701T195241Z
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+SUMMARY:USD - Producer Price Index
+DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.bls.gov/schedule/news_release/bls.ics\nNote: Producer Price Index release (exact EST/EDT conversion via IANA tz data)\n
+END:VEVENT
+BEGIN:VEVENT
 UID:f85dc2f51b93301a@data-releases-calendar
-DTSTAMP:20260701T172852Z
+DTSTAMP:20260701T195241Z
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
 SUMMARY:USD - Personal Income and Outlays\, November 2026
