@@ -6,279 +6,47 @@ METHOD:PUBLISH
 X-WR-CALNAME:Economic Calendar (High Impact)
 BEGIN:VEVENT
 UID:8f69e39736a41873@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260628T121500Z
 DTEND:20260628T124500Z
 SUMMARY:AUD - RBA Gov Bullock Speaks
 DESCRIPTION:Country/Currency: AUD\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:ecdb3689ede85edb@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260628T163500Z
-DTEND:20260628T170500Z
-SUMMARY:USD - FOMC Member Barkin Speaks
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:bb03f8cf378d73eb@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260628T233000Z
-DTEND:20260629T000000Z
-SUMMARY:AUD - RBA Assist Gov Kent Speaks
-DESCRIPTION:Country/Currency: AUD\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:746f0b0697b2951f@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260628T235000Z
-DTEND:20260629T002000Z
-SUMMARY:JPY - Retail Sales y/y
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 3.1%\nPrevious: 2.1%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:bff5868ed5e17025@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T050000Z
-DTEND:20260629T053000Z
-SUMMARY:GBP - MPC Member Pill Speaks
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:bc2fa785e65f5b6e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260629T060300Z
 DTEND:20260629T063300Z
 SUMMARY:EUR - Italian Bank Holiday
 DESCRIPTION:Country/Currency: EUR\nImpact: Holiday\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:9300bfec6d2eab4f@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T070000Z
-DTEND:20260629T073000Z
-SUMMARY:EUR - Spanish Flash CPI y/y
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 3.2%\nPrevious: 3.2%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:13f85e60fe9c4df5@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T080000Z
-DTEND:20260629T083000Z
-SUMMARY:EUR - M3 Money Supply y/y
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 2.7%\nPrevious: 2.7%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:b986d765993c6767@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T080000Z
-DTEND:20260629T083000Z
-SUMMARY:EUR - Private Loans y/y
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 2.9%\nPrevious: 3.0%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0b521bdf111659@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T083000Z
-DTEND:20260629T090000Z
-SUMMARY:GBP - M4 Money Supply m/m
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 0.2%\nPrevious: 0.2%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:ab6c5807f9ba60b1@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T083000Z
-DTEND:20260629T090000Z
-SUMMARY:GBP - Mortgage Approvals
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 63K\nPrevious: 66K\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:5af49ac2280bb19a@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T083000Z
-DTEND:20260629T090000Z
-SUMMARY:GBP - Net Lending to Individuals m/m
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 6.0B\nPrevious: 6.2B\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:d15bb7a6103aaa38@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260629T190000Z
 DTEND:20260629T193000Z
 SUMMARY:EUR - ECB President Lagarde Speaks
 DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:b10cd16a758f815e@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T230100Z
-DTEND:20260629T233100Z
-SUMMARY:GBP - BRC Shop Price Index y/y
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 1.2%\nPrevious: 1.2%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:8e361c882299d90d@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T233000Z
-DTEND:20260630T000000Z
-SUMMARY:JPY - Unemployment Rate
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 2.5%\nPrevious: 2.5%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:1e00bf2fabf605d9@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260629T235000Z
-DTEND:20260630T002000Z
-SUMMARY:JPY - Prelim Industrial Production m/m
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 0.6%\nPrevious: 0.8%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:738329af50435318@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T013000Z
-DTEND:20260630T020000Z
-SUMMARY:AUD - Monetary Policy Meeting Minutes
-DESCRIPTION:Country/Currency: AUD\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:ced3d5a946821c1c@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T013000Z
-DTEND:20260630T020000Z
-SUMMARY:AUD - Private Sector Credit m/m
-DESCRIPTION:Country/Currency: AUD\nImpact: Low\nForecast: 0.6%\nPrevious: 0.7%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:5a9565931db7544c@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T050000Z
-DTEND:20260630T053000Z
-SUMMARY:JPY - Housing Starts y/y
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 31.8%\nPrevious: 11.4%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:a73b44b57d0df6e8@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T060000Z
-DTEND:20260630T063000Z
-SUMMARY:EUR - German Import Prices m/m
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 0.4%\nPrevious: 1.2%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:05e7b3e4609d5d4e@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T060000Z
-DTEND:20260630T063000Z
-SUMMARY:EUR - German Retail Sales m/m
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 0.0%\nPrevious: -0.3%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:401ab8a85f4a0798@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T060000Z
-DTEND:20260630T063000Z
-SUMMARY:GBP - Current Account
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: -22.2B\nPrevious: -18.4B\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:fbac414dd9954c0d@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T060000Z
-DTEND:20260630T063000Z
-SUMMARY:GBP - Final GDP q/q
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 0.6%\nPrevious: 0.6%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:c098aee70760ab96@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T060000Z
-DTEND:20260630T063000Z
-SUMMARY:GBP - Revised Business Investment q/q
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 0.7%\nPrevious: 0.7%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:52f3ab229cdf1fd1@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260630T062900Z
 DTEND:20260630T065900Z
 SUMMARY:EUR - German Prelim CPI m/m
 DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: 0.0%\nPrevious: -0.2%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:4bd1ec554ecb7618@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T064500Z
-DTEND:20260630T071500Z
-SUMMARY:EUR - French Consumer Spending m/m
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 0.2%\nPrevious: -0.5%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:d995d162e964a9c5@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T064500Z
-DTEND:20260630T071500Z
-SUMMARY:EUR - French Prelim CPI m/m
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 0.0%\nPrevious: 0.1%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:34406d9d05805bac@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T075500Z
-DTEND:20260630T082500Z
-SUMMARY:EUR - German Unemployment Change
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 7K\nPrevious: -12K\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:3d8d286212ad290f@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T090000Z
-DTEND:20260630T093000Z
-SUMMARY:EUR - Italian Prelim CPI m/m
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 0.2%\nPrevious: 0.4%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:305bab441637379c@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T104000Z
-DTEND:20260630T111000Z
-SUMMARY:GBP - MPC Member Breeden Speaks
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:a7d2546b05f168e6@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260630T123000Z
 DTEND:20260630T130000Z
 SUMMARY:CAD - GDP m/m
 DESCRIPTION:Country/Currency: CAD\nImpact: High\nForecast: 0.4%\nPrevious: -0.1%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:ea8dccde68a758a9@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T130000Z
-DTEND:20260630T133000Z
-SUMMARY:USD - HPI m/m
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: 0.2%\nPrevious: 0.1%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:fed4652fa3317f4a@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T130000Z
-DTEND:20260630T133000Z
-SUMMARY:USD - S&P/CS Composite-20 HPI y/y
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: 0.9%\nPrevious: 0.8%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:a9730a0482863eb9@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T134500Z
-DTEND:20260630T141500Z
-SUMMARY:USD - Chicago PMI
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: 55.7\nPrevious: 62.7\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:e948c0979cbab3c7@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260630T140000Z
 DTEND:20260630T143000Z
 SUMMARY:USD - CB Consumer Confidence
@@ -286,127 +54,15 @@ DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 94.4\nPrevious: 93.
 END:VEVENT
 BEGIN:VEVENT
 UID:808d5d98568a04eb@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260630T140000Z
 DTEND:20260630T143000Z
 SUMMARY:USD - JOLTS Job Openings
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 7.28M\nPrevious: 7.62M\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:33162923df3a3ebf@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T203000Z
-DTEND:20260630T210000Z
-SUMMARY:USD - API Weekly Statistical Bulletin
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:b39637130704e000@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T235000Z
-DTEND:20260701T002000Z
-SUMMARY:JPY - Tankan Manufacturing Index
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 16\nPrevious: 17\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:e74bf3aebea5b8ed@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260630T235000Z
-DTEND:20260701T002000Z
-SUMMARY:JPY - Tankan Non-Manufacturing Index
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 36\nPrevious: 36\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:c6265a5055277826@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T003000Z
-DTEND:20260701T010000Z
-SUMMARY:JPY - Final Manufacturing PMI
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 54.9\nPrevious: 54.9\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:f9e7bd8e2f438d64@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T013000Z
-DTEND:20260701T020000Z
-SUMMARY:AUD - Building Approvals m/m
-DESCRIPTION:Country/Currency: AUD\nImpact: Low\nForecast: 0.5%\nPrevious: -3.4%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:edaa021f2aa330df@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T050000Z
-DTEND:20260701T053000Z
-SUMMARY:JPY - Consumer Confidence
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: 34.1\nPrevious: 33.6\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:8735f16240dd23a7@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T060000Z
-DTEND:20260701T063000Z
-SUMMARY:GBP - Nationwide HPI m/m
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 0.1%\nPrevious: -0.6%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:1134c9821fa12739@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T063000Z
-DTEND:20260701T070000Z
-SUMMARY:AUD - Commodity Prices y/y
-DESCRIPTION:Country/Currency: AUD\nImpact: Low\nForecast: \nPrevious: 16.8%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:a8286076ce9130ae@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T071500Z
-DTEND:20260701T074500Z
-SUMMARY:EUR - Spanish Manufacturing PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 51.0\nPrevious: 51.2\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:d1d878a7e441542e@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T074500Z
-DTEND:20260701T081500Z
-SUMMARY:EUR - Italian Manufacturing PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 52.4\nPrevious: 52.9\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:9d65c6c78f053f7a@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T075000Z
-DTEND:20260701T082000Z
-SUMMARY:EUR - French Final Manufacturing PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 50.7\nPrevious: 50.7\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:b375e7485ee698d1@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T075500Z
-DTEND:20260701T082500Z
-SUMMARY:EUR - German Final Manufacturing PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 50.0\nPrevious: 50.0\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:f32ee634417d29d0@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T080000Z
-DTEND:20260701T083000Z
-SUMMARY:EUR - Final Manufacturing PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 51.3\nPrevious: 51.3\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:3aa4ccf75ecbfc84@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T083000Z
-DTEND:20260701T090000Z
-SUMMARY:GBP - Final Manufacturing PMI
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 53.1\nPrevious: 53.1\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:18acd400dd891ce5@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T090000Z
 DTEND:20260701T093000Z
 SUMMARY:EUR - Core CPI Flash Estimate y/y
@@ -414,23 +70,15 @@ DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: 2.5%\nPrevious: 2.5
 END:VEVENT
 BEGIN:VEVENT
 UID:5288937cb89bef06@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T090000Z
 DTEND:20260701T093000Z
 SUMMARY:EUR - CPI Flash Estimate y/y
 DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: 3.0%\nPrevious: 3.2%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:ce691e98f116248c@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T093000Z
-DTEND:20260701T100000Z
-SUMMARY:USD - Challenger Job Cuts y/y
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: \nPrevious: 3.4%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:ff6bae380866522e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T120000Z
 DTEND:20260701T123000Z
 SUMMARY:CAD - Bank Holiday
@@ -438,7 +86,7 @@ DESCRIPTION:Country/Currency: CAD\nImpact: Holiday\nForecast: \nPrevious: \nSour
 END:VEVENT
 BEGIN:VEVENT
 UID:b0e7773a3c0c9326@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T121500Z
 DTEND:20260701T124500Z
 SUMMARY:USD - ADP Non-Farm Employment Change
@@ -446,7 +94,7 @@ DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 118K\nPrevious: 122
 END:VEVENT
 BEGIN:VEVENT
 UID:d81839a2bf4f0cab@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T130000Z
 DTEND:20260701T133000Z
 SUMMARY:CAD - BOC Gov Macklem Speaks
@@ -454,7 +102,7 @@ DESCRIPTION:Country/Currency: CAD\nImpact: Medium\nForecast: \nPrevious: \nSourc
 END:VEVENT
 BEGIN:VEVENT
 UID:55bccad7979dd977@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T130000Z
 DTEND:20260701T133000Z
 SUMMARY:EUR - ECB President Lagarde Speaks
@@ -462,7 +110,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: \nPrevious: \nSourc
 END:VEVENT
 BEGIN:VEVENT
 UID:a08a48dea954c12a@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T130000Z
 DTEND:20260701T133000Z
 SUMMARY:GBP - BOE Gov Bailey Speaks
@@ -470,23 +118,15 @@ DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:38d4fecc6641791c@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T130000Z
 DTEND:20260701T133000Z
 SUMMARY:USD - Fed Chairman Warsh Speaks
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:3f8e41d62fc59386@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T134500Z
-DTEND:20260701T141500Z
-SUMMARY:USD - Final Manufacturing PMI
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: 55.7\nPrevious: 55.7\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:76788e25431ced56@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T140000Z
 DTEND:20260701T143000Z
 SUMMARY:USD - ISM Manufacturing PMI
@@ -494,143 +134,23 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 53.8\nPrevious: 54.0\
 END:VEVENT
 BEGIN:VEVENT
 UID:791e2190d88addf0@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T140000Z
 DTEND:20260701T143000Z
 SUMMARY:USD - ISM Manufacturing Prices
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 77.7\nPrevious: 82.1\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:5b1f9f8632a984af@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T140000Z
-DTEND:20260701T143000Z
-SUMMARY:USD - Construction Spending m/m
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: 0.1%\nPrevious: 0.4%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:3ec0c9a1c51fa9c1@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T141500Z
-DTEND:20260701T144500Z
-SUMMARY:USD - Omdia Total Vehicle Sales
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: 16.1M\nPrevious: 16.1M\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:04bc14f898804ab6@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T143000Z
-DTEND:20260701T150000Z
-SUMMARY:USD - Crude Oil Inventories
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: -2.9M\nPrevious: -6.1M\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:8917b85893e93b5e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260701T191500Z
 DTEND:20260701T194500Z
 SUMMARY:USD - President Trump Speaks
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:f21a28d76bbd876d@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260701T235000Z
-DTEND:20260702T002000Z
-SUMMARY:JPY - Monetary Base y/y
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: -10.0%\nPrevious: -12.2%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:dd6892e8055a3947@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T013000Z
-DTEND:20260702T020000Z
-SUMMARY:AUD - Goods Trade Balance
-DESCRIPTION:Country/Currency: AUD\nImpact: Low\nForecast: 2.19B\nPrevious: 1.79B\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:2d9c3fd55f903498@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T033500Z
-DTEND:20260702T040500Z
-SUMMARY:JPY - 10-y Bond Auction
-DESCRIPTION:Country/Currency: JPY\nImpact: Low\nForecast: \nPrevious: 2.65|3.5\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:b333cd5c7b5b9b13@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T064500Z
-DTEND:20260702T071500Z
-SUMMARY:EUR - French Gov Budget Balance
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: \nPrevious: -69.6B\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:4fe20e15108fdbda@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T070000Z
-DTEND:20260702T073000Z
-SUMMARY:EUR - Spanish Unemployment Change
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: -40.8K\nPrevious: -36.3K\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:271c92537a319ea0@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T080000Z
-DTEND:20260702T083000Z
-SUMMARY:EUR - Italian Monthly Unemployment Rate
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 5.1%\nPrevious: 5.1%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:24446cab0caee5a0@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T083000Z
-DTEND:20260702T090000Z
-SUMMARY:GBP - BOE Credit Conditions Survey
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:83b2f4d3e7328468@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T090000Z
-DTEND:20260702T093000Z
-SUMMARY:EUR - Unemployment Rate
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 6.3%\nPrevious: 6.3%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:088b3709c9949d9f@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T090300Z
-DTEND:20260702T093300Z
-SUMMARY:EUR - Spanish 10-y Bond Auction
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: \nPrevious: 3.38|1.9\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:c951499f4460e78b@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T091800Z
-DTEND:20260702T094800Z
-SUMMARY:EUR - French 10-y Bond Auction
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: \nPrevious: 3.80|2.4\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:87f212744f5fc5ae@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T093300Z
-DTEND:20260702T100300Z
-SUMMARY:GBP - 10-y Bond Auction
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: \nPrevious: 4.86|3.5\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:358b415711d629ae@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T114500Z
-DTEND:20260702T121500Z
-SUMMARY:USD - FOMC Member Daly Speaks
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:5028f4faab358688@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Average Hourly Earnings m/m
@@ -638,7 +158,7 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 0.3%\nPrevious: 0.3%\
 END:VEVENT
 BEGIN:VEVENT
 UID:fb928b80c349425c@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Non-Farm Employment Change
@@ -646,7 +166,7 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 114K\nPrevious: 172K\
 END:VEVENT
 BEGIN:VEVENT
 UID:fe7281fbca37daf7@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Unemployment Rate
@@ -654,127 +174,23 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 4.3%\nPrevious: 4.3%\
 END:VEVENT
 BEGIN:VEVENT
 UID:22836d799f818dcd@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Unemployment Claims
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 219K\nPrevious: 215K\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:30cd4db884f6dcfb@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T133000Z
-DTEND:20260702T140000Z
-SUMMARY:CAD - Manufacturing PMI
-DESCRIPTION:Country/Currency: CAD\nImpact: Low\nForecast: \nPrevious: 52.9\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:d2b5511276e51b30@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T140000Z
-DTEND:20260702T143000Z
-SUMMARY:USD - Factory Orders m/m
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: -1.7%\nPrevious: 4.8%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:f61acaa49901d7b5@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T143000Z
-DTEND:20260702T150000Z
-SUMMARY:USD - Natural Gas Storage
-DESCRIPTION:Country/Currency: USD\nImpact: Low\nForecast: 81B\nPrevious: 76B\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:d8483a1dad63fed2@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260702T154500Z
-DTEND:20260702T161500Z
-SUMMARY:GBP - MPC Member Mann Speaks
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:fc1d45925d42d78b@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T064500Z
-DTEND:20260703T071500Z
-SUMMARY:EUR - French Industrial Production m/m
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: -0.3%\nPrevious: 0.1%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:caa9ce38baa78740@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T071500Z
-DTEND:20260703T074500Z
-SUMMARY:EUR - Spanish Services PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 51.0\nPrevious: 50.1\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:99d3f0ffb3f270d7@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T074500Z
-DTEND:20260703T081500Z
-SUMMARY:EUR - Italian Services PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 50.3\nPrevious: 49.4\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:e32958d9ed4b1e55@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T075000Z
-DTEND:20260703T082000Z
-SUMMARY:EUR - French Final Services PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 47.4\nPrevious: 47.4\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:0803e5f8172a7ab4@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T075500Z
-DTEND:20260703T082500Z
-SUMMARY:EUR - German Final Services PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 46.9\nPrevious: 46.8\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:631c1a673cd6bd74@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T080000Z
-DTEND:20260703T083000Z
-SUMMARY:EUR - Final Services PMI
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 48.9\nPrevious: 48.9\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:88d685a5fee2f55f@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T080000Z
-DTEND:20260703T083000Z
-SUMMARY:EUR - Italian Retail Sales m/m
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: 0.2%\nPrevious: 0.0%\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:fafea106a8c9897f@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T083000Z
-DTEND:20260703T090000Z
-SUMMARY:GBP - Final Services PMI
-DESCRIPTION:Country/Currency: GBP\nImpact: Low\nForecast: 48.8\nPrevious: 48.7\nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:c070164a5ca9de2d@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260703T120000Z
 DTEND:20260703T123000Z
 SUMMARY:USD - Bank Holiday
 DESCRIPTION:Country/Currency: USD\nImpact: Holiday\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:1ed253062f1a5b2a@econ-calendar
-DTSTAMP:20260701T114105Z
-DTSTART:20260703T150000Z
-DTEND:20260703T153000Z
-SUMMARY:EUR - German Buba President Nagel Speaks
-DESCRIPTION:Country/Currency: EUR\nImpact: Low\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
 UID:012c03fd5481388e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260723T121500Z
 DTEND:20260723T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -782,7 +198,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:b42a1eed6243bf32@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260729T180000Z
 DTEND:20260729T183000Z
 SUMMARY:USD - FOMC Interest Rate Decision
@@ -790,7 +206,7 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:6d5dc1275a0798b6@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260730T110000Z
 DTEND:20260730T113000Z
 SUMMARY:GBP - BOE Interest Rate Decision
@@ -798,7 +214,7 @@ DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:7bc962ba728b2c3e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260811T043000Z
 DTEND:20260811T050000Z
 SUMMARY:AUD - RBA Interest Rate Decision
@@ -806,7 +222,7 @@ DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:757cafa76ce2cf04@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260910T121500Z
 DTEND:20260910T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -814,7 +230,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:55ee0f82746b423f@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260916T180000Z
 DTEND:20260916T183000Z
 SUMMARY:USD - FOMC Interest Rate Decision
@@ -822,7 +238,7 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:44f07464dab88a8d@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260917T110000Z
 DTEND:20260917T113000Z
 SUMMARY:GBP - BOE Interest Rate Decision
@@ -830,7 +246,7 @@ DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:eeb4cd6ba9fea7f0@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260924T083000Z
 DTEND:20260924T090000Z
 SUMMARY:CHF - SNB Interest Rate Decision
@@ -838,7 +254,7 @@ DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:65a7e5e04a6be8b8@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20260929T043000Z
 DTEND:20260929T050000Z
 SUMMARY:AUD - RBA Interest Rate Decision
@@ -846,7 +262,7 @@ DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:da8a60ddad78a42f@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261028T180000Z
 DTEND:20261028T183000Z
 SUMMARY:USD - FOMC Interest Rate Decision
@@ -854,7 +270,7 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:9c74aeae228082d5@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261029T121500Z
 DTEND:20261029T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -862,7 +278,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:fb5ff274c6e14c13@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261103T033000Z
 DTEND:20261103T040000Z
 SUMMARY:AUD - RBA Interest Rate Decision
@@ -870,7 +286,7 @@ DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:5a45ec38c3422f13@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261105T120000Z
 DTEND:20261105T123000Z
 SUMMARY:GBP - BOE Interest Rate Decision
@@ -878,7 +294,7 @@ DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:91a7056205ec2f86@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261208T033000Z
 DTEND:20261208T040000Z
 SUMMARY:AUD - RBA Interest Rate Decision
@@ -886,7 +302,7 @@ DESCRIPTION:Country/Currency: AUD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:ac020ff8c305aacc@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261209T190000Z
 DTEND:20261209T193000Z
 SUMMARY:USD - FOMC Interest Rate Decision
@@ -894,7 +310,7 @@ DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:b104192ba6daa884@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261210T083000Z
 DTEND:20261210T090000Z
 SUMMARY:CHF - SNB Interest Rate Decision
@@ -902,7 +318,7 @@ DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:52b45487bf1950f8@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261217T120000Z
 DTEND:20261217T123000Z
 SUMMARY:GBP - BOE Interest Rate Decision
@@ -910,7 +326,7 @@ DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:df031466e33d1e8b@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20261217T121500Z
 DTEND:20261217T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -918,7 +334,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c6e98036b38d17@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270204T121500Z
 DTEND:20270204T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -926,7 +342,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:fad36928333f8169@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270318T083000Z
 DTEND:20270318T090000Z
 SUMMARY:CHF - SNB Interest Rate Decision
@@ -934,7 +350,7 @@ DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:1f73fa94afe78172@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270318T121500Z
 DTEND:20270318T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -942,7 +358,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:40cb5e84ea767731@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270429T121500Z
 DTEND:20270429T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -950,7 +366,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:547a43868f6c8a57@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270610T121500Z
 DTEND:20270610T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -958,7 +374,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:f614d7c51bdf438e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270624T083000Z
 DTEND:20270624T090000Z
 SUMMARY:CHF - SNB Interest Rate Decision
@@ -966,7 +382,7 @@ DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:4d29a88392693320@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270722T121500Z
 DTEND:20270722T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -974,7 +390,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:653da2a2a368550e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270909T121500Z
 DTEND:20270909T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -982,7 +398,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:11da0524970d0170@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20270923T083000Z
 DTEND:20270923T090000Z
 SUMMARY:CHF - SNB Interest Rate Decision
@@ -990,7 +406,7 @@ DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:81720ba88b05ec40@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20271028T121500Z
 DTEND:20271028T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
@@ -998,7 +414,7 @@ DESCRIPTION:Country/Currency: EUR\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:5416d46676f1866e@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20271216T083000Z
 DTEND:20271216T090000Z
 SUMMARY:CHF - SNB Interest Rate Decision
@@ -1006,7 +422,7 @@ DESCRIPTION:Country/Currency: CHF\nImpact: High\nForecast: \nPrevious: \nSource:
 END:VEVENT
 BEGIN:VEVENT
 UID:bed1aa29a99e8f29@econ-calendar
-DTSTAMP:20260701T114105Z
+DTSTAMP:20260701T161735Z
 DTSTART:20271216T121500Z
 DTEND:20271216T124500Z
 SUMMARY:EUR - ECB Interest Rate Decision
