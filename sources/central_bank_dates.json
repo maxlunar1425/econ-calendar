@@ -22,7 +22,8 @@
     "GBP_BOE": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
     "CAD_BOC": "https://www.bankofcanada.ca/press/upcoming-events/",
     "AUD_RBA": "https://www.rba.gov.au/schedules-events/",
-    "JPY_BOJ": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    "JPY_BOJ": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+    "CHF_SNB": "https://www.snb.ch/en/services-events/digital-services/event-schedule"
   },
   "scraper_errors": [
     "FOMC 2026: FAILED to scrape -- Could not find '2026 FOMC Meetings' heading on page",
@@ -83,6 +84,13 @@
       "note": "Rate decision"
     },
     {
+      "bank": "SNB",
+      "country": "CHF",
+      "date": "2026-09-24",
+      "time_utc": "08:30",
+      "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
+    },
+    {
       "bank": "RBA",
       "country": "AUD",
       "date": "2026-09-29",
@@ -132,6 +140,13 @@
       "note": "Rate decision; includes Summary of Economic Projections"
     },
     {
+      "bank": "SNB",
+      "country": "CHF",
+      "date": "2026-12-10",
+      "time_utc": "08:30",
+      "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
+    },
+    {
       "bank": "ECB",
       "country": "EUR",
       "date": "2026-12-17",
@@ -160,6 +175,13 @@
       "note": "Rate decision; press conference follows"
     },
     {
+      "bank": "SNB",
+      "country": "CHF",
+      "date": "2027-03-18",
+      "time_utc": "08:30",
+      "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
+    },
+    {
       "bank": "ECB",
       "country": "EUR",
       "date": "2027-04-29",
@@ -172,6 +194,13 @@
       "date": "2027-06-10",
       "time_utc": "12:15",
       "note": "Rate decision; press conference follows"
+    },
+    {
+      "bank": "SNB",
+      "country": "CHF",
+      "date": "2027-06-24",
+      "time_utc": "08:30",
+      "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
     },
     {
       "bank": "ECB",
@@ -188,6 +217,13 @@
       "note": "Rate decision; press conference follows"
     },
     {
+      "bank": "SNB",
+      "country": "CHF",
+      "date": "2027-09-23",
+      "time_utc": "08:30",
+      "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
+    },
+    {
       "bank": "ECB",
       "country": "EUR",
       "date": "2027-10-28",
@@ -200,6 +236,13 @@
       "date": "2027-12-16",
       "time_utc": "12:15",
       "note": "Rate decision; press conference follows"
+    },
+    {
+      "bank": "SNB",
+      "country": "CHF",
+      "date": "2027-12-16",
+      "time_utc": "08:30",
+      "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
     },
     {
       "bank": "BOJ",
