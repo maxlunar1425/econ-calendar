@@ -63,7 +63,7 @@ def get_events() -> list[dict]:
                 "impact": ev.get("impact", ""),
                 "forecast": ev.get("forecast", ""),
                 "previous": ev.get("previous", ""),
-                "source": "Forex Factory (free feed)",
+                "source": "https://www.forexfactory.com/calendar",
                 "note": "",
             }
         )
