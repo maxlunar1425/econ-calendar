@@ -1,0 +1,54 @@
+name: Update Forex Factory + Central Bank Calendars
+
+# Runs automatically on a schedule, and lets you trigger it manually too.
+# Builds TWO separate .ics files (so they can be subscribed to as two
+# separate Outlook calendars with different colors):
+#   - forexfactory_calendar.ics  (near-term data releases)
+#   - central_banks_calendar.ics (rate decisions, rebuilt here from
+#     whatever sources/central_bank_dates.json currently contains --
+#     the actual central bank SCRAPING happens on its own weekly
+#     schedule in update_central_bank_dates.yml; this just re-renders
+#     the ICS from that data, which is cheap, so keeping it on the same
+#     frequent schedule as Forex Factory is harmless)
+#
+# NOTE: Forex Factory rate-limits its feed to ~2 requests per 5 minutes
+# per IP, so don't set this more aggressively than every 30-60 minutes.
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours, UTC
+  workflow_dispatch: {}      # adds a manual "Run workflow" button in GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Forex Factory calendar
+        run: python3 build_forexfactory_ics.py
+
+      - name: Generate Central Banks calendar
+        run: python3 build_central_banks_ics.py
+
+      - name: Copy output into docs/ for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp output/forexfactory_calendar.ics docs/forexfactory_calendar.ics
+          cp output/central_banks_calendar.ics docs/central_banks_calendar.ics
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/forexfactory_calendar.ics docs/central_banks_calendar.ics
+          git diff --cached --quiet || git commit -m "Auto-update Forex Factory + Central Banks ICS"
+          git push
