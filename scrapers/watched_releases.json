@@ -1,0 +1,27 @@
+{
+  "_readme": [
+    "Maintain the list of official data releases you want included here.",
+    "Each agency's list contains EXACT (case-sensitive) title strings as",
+    "they appear in that agency's own official calendar/ICS feed -- the",
+    "scrapers match against these verbatim, so if an agency renames a",
+    "release, update the string here.",
+    "",
+    "This file only controls WHICH releases are included -- it does not",
+    "contain any dates itself. Dates are always fetched live from the",
+    "official source at scrape time."
+  ],
+
+  "BLS": [
+    "Consumer Price Index",
+    "Producer Price Index"
+  ],
+
+  "BEA": [
+    "Personal Income and Outlays"
+  ],
+
+  "_notes": {
+    "PCE": "PCE (the Personal Consumption Expenditures price index) is published by BEA as part of the 'Personal Income and Outlays' release -- BEA titles vary by month (e.g. 'Personal Income and Outlays, June 2026'), so matching is prefix-based (startswith), not exact, for BEA entries.",
+    "Jobless Claims": "Weekly initial jobless claims are published by the Department of Labor's Employment and Training Administration (ETA), a different agency from both BLS and BEA. Not yet covered by any scraper -- would need a separate DOL-ETA source."
+  }
+}
