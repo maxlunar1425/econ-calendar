@@ -22,7 +22,7 @@ from datetime import datetime, timezone
 FEED_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
 
 WANTED_CURRENCIES = {"AUD", "CAD", "EUR", "JPY", "GBP", "USD"}
-WANTED_IMPACT = {"High", "Medium", "Low", "Holiday"}
+WANTED_IMPACT = {"High", "Medium", "Holiday"}
 
 
 def parse_event_datetime(date_str: str) -> datetime:
