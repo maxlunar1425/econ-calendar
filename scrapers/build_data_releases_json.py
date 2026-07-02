@@ -40,7 +40,7 @@ OUTPUT_FILE = Path(__file__).parent.parent / "sources" / "data_releases.json"
 # How many days in the past to still include in the output. 0 = only
 # today and future events (the original behavior). Set higher to keep
 # recently-passed releases visible in the calendar for reference.
-LOOKBACK_DAYS = 30
+LOOKBACK_DAYS = 90
 
 SOURCES = {
     "BLS": "https://www.bls.gov/schedule/news_release/bls.ics",
