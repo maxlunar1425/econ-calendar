@@ -1,0 +1,265 @@
+{
+  "_readme": [
+    "Accumulated Forex Factory history, since Forex Factory's feed only",
+    "ever exposes 'this week' with no historical endpoint. Built up over",
+    "time by build_forexfactory_history.py merging each live fetch into",
+    "this file and pruning anything older than LOOKBACK_DAYS.",
+    "",
+    "DO NOT hand-edit -- overwritten on every run.",
+    "LOOKBACK_DAYS = 30"
+  ],
+  "last_updated": "2026-07-02T02:56:43.051594+00:00",
+  "lookback_days": 30,
+  "events": [
+    {
+      "title": "RBA Gov Bullock Speaks",
+      "country": "AUD",
+      "date": "2026-06-28T12:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Italian Bank Holiday",
+      "country": "EUR",
+      "date": "2026-06-29T06:03:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-06-29T19:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "German Prelim CPI m/m",
+      "country": "EUR",
+      "date": "2026-06-30T06:29:00+00:00",
+      "impact": "Medium",
+      "forecast": "0.0%",
+      "previous": "-0.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "GDP m/m",
+      "country": "CAD",
+      "date": "2026-06-30T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.4%",
+      "previous": "-0.1%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CB Consumer Confidence",
+      "country": "USD",
+      "date": "2026-06-30T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "94.4",
+      "previous": "93.1",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "JOLTS Job Openings",
+      "country": "USD",
+      "date": "2026-06-30T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "7.28M",
+      "previous": "7.62M",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core CPI Flash Estimate y/y",
+      "country": "EUR",
+      "date": "2026-07-01T09:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "2.5%",
+      "previous": "2.5%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI Flash Estimate y/y",
+      "country": "EUR",
+      "date": "2026-07-01T09:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "3.0%",
+      "previous": "3.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "CAD",
+      "date": "2026-07-01T12:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ADP Non-Farm Employment Change",
+      "country": "USD",
+      "date": "2026-07-01T12:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "118K",
+      "previous": "122K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOC Gov Macklem Speaks",
+      "country": "CAD",
+      "date": "2026-07-01T13:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-07-01T13:00:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Fed Chairman Warsh Speaks",
+      "country": "USD",
+      "date": "2026-07-01T13:00:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-07-01T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ISM Manufacturing PMI",
+      "country": "USD",
+      "date": "2026-07-01T14:00:00+00:00",
+      "impact": "High",
+      "forecast": "53.8",
+      "previous": "54.0",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ISM Manufacturing Prices",
+      "country": "USD",
+      "date": "2026-07-01T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "77.7",
+      "previous": "82.1",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-07-01T19:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Average Hourly Earnings m/m",
+      "country": "USD",
+      "date": "2026-07-02T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.3%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Non-Farm Employment Change",
+      "country": "USD",
+      "date": "2026-07-02T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "114K",
+      "previous": "172K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "USD",
+      "date": "2026-07-02T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "4.3%",
+      "previous": "4.3%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-07-02T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "219K",
+      "previous": "215K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-07-03T08:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "USD",
+      "date": "2026-07-03T12:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-07-03T15:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    }
+  ]
+}

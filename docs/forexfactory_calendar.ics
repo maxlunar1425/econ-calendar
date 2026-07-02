@@ -5,187 +5,203 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Forex Factory (High/Medium Impact)
 BEGIN:VEVENT
-UID:8f69e39736a41873@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:03a2b3d0cc1efd9e@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260628T121500Z
 DTEND:20260628T124500Z
 SUMMARY:AUD - RBA Gov Bullock Speaks
 DESCRIPTION:Country/Currency: AUD\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:bc2fa785e65f5b6e@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:8cb8718c213c957d@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260629T060300Z
 DTEND:20260629T063300Z
 SUMMARY:EUR - Italian Bank Holiday
 DESCRIPTION:Country/Currency: EUR\nImpact: Holiday\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:d15bb7a6103aaa38@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:9e94ad5b936c10f6@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260629T190000Z
 DTEND:20260629T193000Z
 SUMMARY:EUR - ECB President Lagarde Speaks
 DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:52f3ab229cdf1fd1@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:7760848b08610e63@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260630T062900Z
 DTEND:20260630T065900Z
 SUMMARY:EUR - German Prelim CPI m/m
 DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: 0.0%\nPrevious: -0.2%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:a7d2546b05f168e6@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:eb601b86037fc7eb@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260630T123000Z
 DTEND:20260630T130000Z
 SUMMARY:CAD - GDP m/m
 DESCRIPTION:Country/Currency: CAD\nImpact: High\nForecast: 0.4%\nPrevious: -0.1%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:e948c0979cbab3c7@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:577cb441de0abd90@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260630T140000Z
 DTEND:20260630T143000Z
 SUMMARY:USD - CB Consumer Confidence
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 94.4\nPrevious: 93.1\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:808d5d98568a04eb@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:c6b7237d53736d24@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260630T140000Z
 DTEND:20260630T143000Z
 SUMMARY:USD - JOLTS Job Openings
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 7.28M\nPrevious: 7.62M\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:18acd400dd891ce5@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:80b5daf0489191ca@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T090000Z
 DTEND:20260701T093000Z
 SUMMARY:EUR - Core CPI Flash Estimate y/y
 DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: 2.5%\nPrevious: 2.5%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:5288937cb89bef06@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:9ed3a5c5d8996bfb@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T090000Z
 DTEND:20260701T093000Z
 SUMMARY:EUR - CPI Flash Estimate y/y
 DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: 3.0%\nPrevious: 3.2%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:ff6bae380866522e@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:14a8598366934efc@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T120000Z
 DTEND:20260701T123000Z
 SUMMARY:CAD - Bank Holiday
 DESCRIPTION:Country/Currency: CAD\nImpact: Holiday\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:b0e7773a3c0c9326@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:8e597518c13c6f33@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T121500Z
 DTEND:20260701T124500Z
 SUMMARY:USD - ADP Non-Farm Employment Change
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 118K\nPrevious: 122K\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:d81839a2bf4f0cab@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:4bf73056e50823e3@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T130000Z
 DTEND:20260701T133000Z
 SUMMARY:CAD - BOC Gov Macklem Speaks
 DESCRIPTION:Country/Currency: CAD\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:55bccad7979dd977@forexfactory-calendar
-DTSTAMP:20260701T205017Z
-DTSTART:20260701T130000Z
-DTEND:20260701T133000Z
-SUMMARY:EUR - ECB President Lagarde Speaks
-DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
-END:VEVENT
-BEGIN:VEVENT
-UID:a08a48dea954c12a@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:f534ac7f6e6f759e@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T130000Z
 DTEND:20260701T133000Z
 SUMMARY:GBP - BOE Gov Bailey Speaks
 DESCRIPTION:Country/Currency: GBP\nImpact: High\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:38d4fecc6641791c@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:cc871fb4cd28299f@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T130000Z
 DTEND:20260701T133000Z
 SUMMARY:USD - Fed Chairman Warsh Speaks
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:76788e25431ced56@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:9f5be56351c8a959@forexfactory-calendar
+DTSTAMP:20260702T025643Z
+DTSTART:20260701T140000Z
+DTEND:20260701T143000Z
+SUMMARY:EUR - ECB President Lagarde Speaks
+DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
+END:VEVENT
+BEGIN:VEVENT
+UID:e77fcef8c1592650@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T140000Z
 DTEND:20260701T143000Z
 SUMMARY:USD - ISM Manufacturing PMI
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 53.8\nPrevious: 54.0\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:791e2190d88addf0@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:cecbdf20260ce7d0@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T140000Z
 DTEND:20260701T143000Z
 SUMMARY:USD - ISM Manufacturing Prices
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 77.7\nPrevious: 82.1\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:8917b85893e93b5e@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:d5bab72991678008@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260701T191500Z
 DTEND:20260701T194500Z
 SUMMARY:USD - President Trump Speaks
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:5028f4faab358688@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:578e0d8d424b79cd@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Average Hourly Earnings m/m
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 0.3%\nPrevious: 0.3%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:fb928b80c349425c@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:ef11ffc36a55c119@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Non-Farm Employment Change
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 114K\nPrevious: 172K\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:fe7281fbca37daf7@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:01b27fe4a6c41ada@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Unemployment Rate
 DESCRIPTION:Country/Currency: USD\nImpact: High\nForecast: 4.3%\nPrevious: 4.3%\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:22836d799f818dcd@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:cd06f4747822cd67@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:USD - Unemployment Claims
 DESCRIPTION:Country/Currency: USD\nImpact: Medium\nForecast: 219K\nPrevious: 215K\nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 BEGIN:VEVENT
-UID:c070164a5ca9de2d@forexfactory-calendar
-DTSTAMP:20260701T205017Z
+UID:7c17b6ec0c7ec78d@forexfactory-calendar
+DTSTAMP:20260702T025643Z
+DTSTART:20260703T080000Z
+DTEND:20260703T083000Z
+SUMMARY:EUR - ECB President Lagarde Speaks
+DESCRIPTION:Country/Currency: EUR\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ba6550d488847052@forexfactory-calendar
+DTSTAMP:20260702T025643Z
 DTSTART:20260703T120000Z
 DTEND:20260703T123000Z
 SUMMARY:USD - Bank Holiday
 DESCRIPTION:Country/Currency: USD\nImpact: Holiday\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4200678ffc566c@forexfactory-calendar
+DTSTAMP:20260702T025643Z
+DTSTART:20260703T150000Z
+DTEND:20260703T153000Z
+SUMMARY:GBP - BOE Gov Bailey Speaks
+DESCRIPTION:Country/Currency: GBP\nImpact: Medium\nForecast: \nPrevious: \nSource: https://www.forexfactory.com/calendar\n
 END:VEVENT
 END:VCALENDAR
