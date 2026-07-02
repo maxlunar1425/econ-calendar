@@ -37,6 +37,13 @@
     {
       "bank": "RBA",
       "country": "AUD",
+      "date": "2026-05-05",
+      "time_utc": "04:30",
+      "note": "Rate decision (AEST 2:30pm local, 2026-05-05 local date)"
+    },
+    {
+      "bank": "RBA",
+      "country": "AUD",
       "date": "2026-06-16",
       "time_utc": "04:30",
       "note": "Rate decision (AEST 2:30pm local, 2026-06-16 local date)"
