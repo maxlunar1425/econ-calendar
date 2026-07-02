@@ -13,9 +13,9 @@
     "fall back to their last-known-good data (marked STALE in the note)",
     "rather than disappearing -- check scraper_errors below for failures.",
     "",
-    "Last generated: 2026-07-01"
+    "Last generated: 2026-07-02"
   ],
-  "last_verified": "2026-07-01",
+  "last_verified": "2026-07-02",
   "sources": {
     "USD_FOMC": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
     "EUR_ECB": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
@@ -34,6 +34,13 @@
     "BOJ 2027: FAILED to scrape -- Could not find '## 2027' heading on page"
   ],
   "events": [
+    {
+      "bank": "RBA",
+      "country": "AUD",
+      "date": "2026-06-16",
+      "time_utc": "04:30",
+      "note": "Rate decision (AEST 2:30pm local, 2026-06-16 local date)"
+    },
     {
       "bank": "ECB",
       "country": "EUR",
