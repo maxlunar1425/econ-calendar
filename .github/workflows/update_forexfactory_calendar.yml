@@ -1,0 +1,55 @@
+name: Update Forex Factory Calendar
+
+# Builds forexfactory_calendar.ics and publishes it to GitHub Pages.
+# Runs every 4 hours since Forex Factory's near-term data changes
+# frequently. Rate-limited to ~2 requests/5min per IP by Forex Factory,
+# so don't schedule this more aggressively than every 30-60 minutes.
+#
+# Two-step process, since Forex Factory's feed only ever returns "this
+# week" with no historical endpoint:
+#   1. build_forexfactory_history.py -- fetches live, merges into a
+#      persistent 30-day rolling history file (sources/forexfactory_history.json)
+#   2. build_forexfactory_ics.py -- renders that accumulated history into
+#      the actual .ics file
+# See build_forexfactory_history.py's docstring for why this exists and
+# its limitations (can't backfill history from before it started running).
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours, UTC
+  workflow_dispatch: {}      # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch live data and update 30-day rolling history
+        run: python3 build_forexfactory_history.py
+
+      - name: Generate Forex Factory calendar from accumulated history
+        run: python3 build_forexfactory_ics.py
+
+      - name: Copy output into docs/ for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp output/forexfactory_calendar.ics docs/forexfactory_calendar.ics
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/forexfactory_calendar.ics sources/forexfactory_history.json
+          git diff --cached --quiet || git commit -m "Auto-update Forex Factory ICS + history"
+          git pull --rebase origin main
+          git push
