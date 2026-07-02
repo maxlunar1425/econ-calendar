@@ -37,7 +37,7 @@ OUTPUT_FILE = Path(__file__).parent.parent / "sources" / "central_bank_dates.jso
 # How many days in the past to still include in the output. 0 = only
 # today and future events (the original behavior). Set higher to keep
 # recently-passed rate decisions visible in the calendar for reference.
-LOOKBACK_DAYS = 30
+LOOKBACK_DAYS = 90
 
 SOURCES = {
     "USD_FOMC": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
