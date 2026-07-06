@@ -28,11 +28,22 @@ jobs:
         working-directory: scrapers
         run: python3 build_central_bank_json.py
 
-      - name: Commit and push if changed
+      - name: Commit and push if changed (with retry on race conditions)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add sources/central_bank_dates.json
           git diff --cached --quiet || git commit -m "Auto-update central bank dates from official sources"
-          git pull --rebase origin main
-          git push
+
+          n=0
+          until [ $n -ge 5 ]
+          do
+            git pull --rebase origin main && git push && break
+            n=$((n+1))
+            echo "Push attempt $n failed (likely a concurrent workflow), retrying..."
+            sleep $((RANDOM % 5 + 1))
+          done
+          if [ $n -ge 5 ]; then
+            echo "Push failed after 5 attempts"
+            exit 1
+          fi
