@@ -10,9 +10,9 @@
     "watched_releases.json. To fix a parsing bug, fix the relevant scraper",
     "(bls_scraper.py / bea_scraper.py), not this file.",
     "",
-    "Last generated: 2026-07-02"
+    "Last generated: 2026-07-06"
   ],
-  "last_verified": "2026-07-02",
+  "last_verified": "2026-07-06",
   "sources": {
     "BLS": "https://www.bls.gov/schedule/news_release/bls.ics",
     "BEA": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
@@ -20,14 +20,6 @@
   },
   "scraper_errors": [],
   "events": [
-    {
-      "bank": "BLS",
-      "country": "USD",
-      "release": "Employment Situation",
-      "date": "2026-04-03",
-      "time_utc": "12:30",
-      "note": "Employment Situation release (exact EST/EDT conversion via IANA tz data)"
-    },
     {
       "bank": "BEA",
       "country": "USD",
