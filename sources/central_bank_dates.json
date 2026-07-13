@@ -13,9 +13,9 @@
     "fall back to their last-known-good data (marked STALE in the note)",
     "rather than disappearing -- check scraper_errors below for failures.",
     "",
-    "Last generated: 2026-07-06"
+    "Last generated: 2026-07-13"
   ],
-  "last_verified": "2026-07-06",
+  "last_verified": "2026-07-13",
   "sources": {
     "USD_FOMC": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
     "EUR_ECB": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
