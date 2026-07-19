@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-07-18T22:33:30.096529+00:00",
+  "last_updated": "2026-07-19T07:51:46.589157+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -548,6 +548,216 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.6%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "JPY",
+      "date": "2026-07-19T23:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI m/m",
+      "country": "CAD",
+      "date": "2026-07-20T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "-0.2%",
+      "previous": "1.0%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Median CPI y/y",
+      "country": "CAD",
+      "date": "2026-07-20T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "2.1%",
+      "previous": "2.1%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Trimmed CPI y/y",
+      "country": "CAD",
+      "date": "2026-07-20T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "2.0%",
+      "previous": "2.0%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Common CPI y/y",
+      "country": "CAD",
+      "date": "2026-07-20T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "2.5%",
+      "previous": "2.7%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Claimant Count Change",
+      "country": "GBP",
+      "date": "2026-07-21T06:00:00+00:00",
+      "impact": "High",
+      "forecast": "28.3K",
+      "previous": "31.2K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Average Earnings Index 3m/y",
+      "country": "GBP",
+      "date": "2026-07-21T06:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "4.5%",
+      "previous": "4.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI y/y",
+      "country": "GBP",
+      "date": "2026-07-22T06:00:00+00:00",
+      "impact": "High",
+      "forecast": "2.7%",
+      "previous": "2.8%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Employment Change",
+      "country": "AUD",
+      "date": "2026-07-23T01:30:00+00:00",
+      "impact": "High",
+      "forecast": "15.2K",
+      "previous": "40.3K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "AUD",
+      "date": "2026-07-23T01:30:00+00:00",
+      "impact": "High",
+      "forecast": "4.4%",
+      "previous": "4.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Main Refinancing Rate",
+      "country": "EUR",
+      "date": "2026-07-23T12:15:00+00:00",
+      "impact": "High",
+      "forecast": "2.40%",
+      "previous": "2.40%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Monetary Policy Statement",
+      "country": "EUR",
+      "date": "2026-07-23T12:15:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-07-23T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "211K",
+      "previous": "208K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ECB Press Conference",
+      "country": "EUR",
+      "date": "2026-07-23T12:45:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Retail Sales m/m",
+      "country": "GBP",
+      "date": "2026-07-24T06:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "-0.1%",
+      "previous": "1.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "French Flash Manufacturing PMI",
+      "country": "EUR",
+      "date": "2026-07-24T07:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "51.2",
+      "previous": "50.7",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "French Flash Services PMI",
+      "country": "EUR",
+      "date": "2026-07-24T07:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "47.7",
+      "previous": "47.4",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "German Flash Manufacturing PMI",
+      "country": "EUR",
+      "date": "2026-07-24T07:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "50.5",
+      "previous": "50.0",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "German Flash Services PMI",
+      "country": "EUR",
+      "date": "2026-07-24T07:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "49.0",
+      "previous": "46.8",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Flash Manufacturing PMI",
+      "country": "GBP",
+      "date": "2026-07-24T08:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "52.1",
+      "previous": "53.1",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Flash Services PMI",
+      "country": "GBP",
+      "date": "2026-07-24T08:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "49.4",
+      "previous": "48.7",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
     }
