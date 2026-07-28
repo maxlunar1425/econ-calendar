@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-07-28T17:12:37.401876+00:00",
+  "last_updated": "2026-07-28T23:33:18.981841+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -936,7 +936,7 @@
       "country": "USD",
       "date": "2026-07-30T12:30:00+00:00",
       "impact": "High",
-      "forecast": "2.0%",
+      "forecast": "2.1%",
       "previous": "2.0%",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
