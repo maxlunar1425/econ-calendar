@@ -10,9 +10,9 @@
     "watched_releases.json. To fix a parsing bug, fix the relevant scraper",
     "(bls_scraper.py / bea_scraper.py), not this file.",
     "",
-    "Last generated: 2026-07-27"
+    "Last generated: 2026-08-03"
   ],
-  "last_verified": "2026-07-27",
+  "last_verified": "2026-08-03",
   "sources": {
     "BLS": "https://www.bls.gov/schedule/news_release/bls.ics",
     "BEA": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
@@ -20,38 +20,6 @@
   },
   "scraper_errors": [],
   "events": [
-    {
-      "bank": "BLS",
-      "country": "USD",
-      "release": "Employment Situation of Veterans",
-      "date": "2026-04-28",
-      "time_utc": "14:00",
-      "note": "Employment Situation of Veterans release (exact EST/EDT conversion via IANA tz data)"
-    },
-    {
-      "bank": "BLS",
-      "country": "USD",
-      "release": "Employment Cost Index",
-      "date": "2026-04-30",
-      "time_utc": "12:30",
-      "note": "Employment Cost Index release (exact EST/EDT conversion via IANA tz data)"
-    },
-    {
-      "bank": "BEA",
-      "country": "USD",
-      "release": "Personal Income and Outlays, March 2026",
-      "date": "2026-04-30",
-      "time_utc": "12:30",
-      "note": "Personal Income and Outlays, March 2026 release (BEA feed is already in UTC, no conversion needed)"
-    },
-    {
-      "bank": "DOL",
-      "country": "USD",
-      "release": "Unemployment Insurance Weekly Claims Report",
-      "date": "2026-04-30",
-      "time_utc": "12:30",
-      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
-    },
     {
       "bank": "BLS",
       "country": "USD",
