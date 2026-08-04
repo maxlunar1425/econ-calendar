@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-08-04T17:52:28.950578+00:00",
+  "last_updated": "2026-08-04T21:16:07.686765+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -912,6 +912,16 @@
       "note": ""
     },
     {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-08-05T20:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
       "title": "Unemployment Claims",
       "country": "USD",
       "date": "2026-08-06T12:30:00+00:00",
@@ -926,7 +936,7 @@
       "country": "CAD",
       "date": "2026-08-07T12:30:00+00:00",
       "impact": "High",
-      "forecast": "14.8K",
+      "forecast": "17.8K",
       "previous": "18.2K",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
