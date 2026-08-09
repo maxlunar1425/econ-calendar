@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-08-09T02:04:44.274811+00:00",
+  "last_updated": "2026-08-09T05:10:27.488286+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -938,6 +938,196 @@
       "impact": "Medium",
       "forecast": "55.4",
       "previous": "56.2",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "JPY",
+      "date": "2026-08-10T23:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Cash Rate",
+      "country": "AUD",
+      "date": "2026-08-11T04:30:00+00:00",
+      "impact": "High",
+      "forecast": "4.35%",
+      "previous": "4.35%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "RBA Monetary Policy Statement",
+      "country": "AUD",
+      "date": "2026-08-11T04:30:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "RBA Rate Statement",
+      "country": "AUD",
+      "date": "2026-08-11T04:30:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "RBA Press Conference",
+      "country": "AUD",
+      "date": "2026-08-11T05:30:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core CPI m/m",
+      "country": "USD",
+      "date": "2026-08-12T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.2%",
+      "previous": "0.0%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core CPI y/y",
+      "country": "USD",
+      "date": "2026-08-12T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "2.5%",
+      "previous": "2.6%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI m/m",
+      "country": "USD",
+      "date": "2026-08-12T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.1%",
+      "previous": "-0.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI y/y",
+      "country": "USD",
+      "date": "2026-08-12T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "3.4%",
+      "previous": "3.5%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "GDP m/m",
+      "country": "GBP",
+      "date": "2026-08-13T06:00:00+00:00",
+      "impact": "High",
+      "forecast": "-0.1%",
+      "previous": "0.1%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Prelim GDP q/q",
+      "country": "GBP",
+      "date": "2026-08-13T06:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "0.4%",
+      "previous": "0.6%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core PPI m/m",
+      "country": "USD",
+      "date": "2026-08-13T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "PPI m/m",
+      "country": "USD",
+      "date": "2026-08-13T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.2%",
+      "previous": "-0.3%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-08-13T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "202K",
+      "previous": "199K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "RBA Gov Bullock Speaks",
+      "country": "AUD",
+      "date": "2026-08-13T23:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core Retail Sales m/m",
+      "country": "USD",
+      "date": "2026-08-14T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "0.2%",
+      "previous": "-0.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Retail Sales m/m",
+      "country": "USD",
+      "date": "2026-08-14T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "0.1%",
+      "previous": "0.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Prelim UoM Consumer Sentiment",
+      "country": "USD",
+      "date": "2026-08-14T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "54.4",
+      "previous": "54.4",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Prelim UoM Inflation Expectations",
+      "country": "USD",
+      "date": "2026-08-14T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "4.2%",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
     }
