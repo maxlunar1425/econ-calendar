@@ -8,19 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-08-13T05:43:17.237862+00:00",
+  "last_updated": "2026-08-13T09:17:19.552047+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "French Bank Holiday",
-      "country": "EUR",
-      "date": "2026-07-14T06:01:00+00:00",
-      "impact": "Holiday",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "Core CPI m/m",
       "country": "USD",
