@@ -8,19 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-08-13T13:21:57.369167+00:00",
+  "last_updated": "2026-08-13T17:00:06.949307+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "Fed Chairman Warsh Testifies",
-      "country": "USD",
-      "date": "2026-07-14T14:00:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "BOE Gov Bailey Speaks",
       "country": "GBP",
