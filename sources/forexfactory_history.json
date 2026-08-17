@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-08-17T16:32:59.592511+00:00",
+  "last_updated": "2026-08-17T20:31:45.366325+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -946,7 +946,7 @@
       "country": "GBP",
       "date": "2026-08-18T06:00:00+00:00",
       "impact": "High",
-      "forecast": "11.2K",
+      "forecast": "16.5K",
       "previous": "6.7K",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
@@ -1006,7 +1006,7 @@
       "country": "AUD",
       "date": "2026-08-20T01:30:00+00:00",
       "impact": "High",
-      "forecast": "11.4K",
+      "forecast": "11.7K",
       "previous": "76.3K",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
@@ -1026,7 +1026,7 @@
       "country": "USD",
       "date": "2026-08-20T12:30:00+00:00",
       "impact": "Medium",
-      "forecast": "24.3",
+      "forecast": "24.1",
       "previous": "41.4",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
@@ -1046,7 +1046,7 @@
       "country": "GBP",
       "date": "2026-08-21T06:00:00+00:00",
       "impact": "Medium",
-      "forecast": "-0.4%",
+      "forecast": "-0.5%",
       "previous": "1.0%",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
