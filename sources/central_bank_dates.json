@@ -13,9 +13,9 @@
     "fall back to their last-known-good data (marked STALE in the note)",
     "rather than disappearing -- check scraper_errors below for failures.",
     "",
-    "Last generated: 2026-08-17"
+    "Last generated: 2026-08-24"
   ],
-  "last_verified": "2026-08-17",
+  "last_verified": "2026-08-24",
   "sources": {
     "USD_FOMC": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
     "EUR_ECB": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
@@ -91,13 +91,6 @@
       "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
     },
     {
-      "bank": "RBA",
-      "country": "AUD",
-      "date": "2026-09-29",
-      "time_utc": "04:30",
-      "note": "Rate decision (AEST 2:30pm local, 2026-09-29 local date)"
-    },
-    {
       "bank": "FOMC",
       "country": "USD",
       "date": "2026-10-28",
@@ -112,25 +105,11 @@
       "note": "Rate decision; press conference follows"
     },
     {
-      "bank": "RBA",
-      "country": "AUD",
-      "date": "2026-11-03",
-      "time_utc": "03:30",
-      "note": "Rate decision (AEDT 2:30pm local, 2026-11-03 local date)"
-    },
-    {
       "bank": "BOE",
       "country": "GBP",
       "date": "2026-11-05",
       "time_utc": "12:00",
       "note": "Rate decision + Monetary Policy Report"
-    },
-    {
-      "bank": "RBA",
-      "country": "AUD",
-      "date": "2026-12-08",
-      "time_utc": "03:30",
-      "note": "Rate decision (AEDT 2:30pm local, 2026-12-08 local date)"
     },
     {
       "bank": "FOMC",
