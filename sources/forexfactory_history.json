@@ -8,49 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-08-29T22:31:05.207053+00:00",
+  "last_updated": "2026-08-30T04:46:04.292469+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "Tokyo Core CPI y/y",
-      "country": "JPY",
-      "date": "2026-07-30T23:30:00+00:00",
-      "impact": "Medium",
-      "forecast": "1.8%",
-      "previous": "1.6%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "BOJ Policy Rate",
-      "country": "JPY",
-      "date": "2026-07-31T03:11:00+00:00",
-      "impact": "High",
-      "forecast": "<1.00%",
-      "previous": "<1.00%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Monetary Policy Statement",
-      "country": "JPY",
-      "date": "2026-07-31T03:11:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "BOJ Outlook Report",
-      "country": "JPY",
-      "date": "2026-07-31T03:11:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "BOJ Press Conference",
       "country": "JPY",
@@ -848,6 +808,216 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.3%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "German Prelim CPI m/m",
+      "country": "EUR",
+      "date": "2026-08-31T06:29:00+00:00",
+      "impact": "Medium",
+      "forecast": "0.3%",
+      "previous": "0.8%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "GBP",
+      "date": "2026-08-31T07:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core CPI Flash Estimate y/y",
+      "country": "EUR",
+      "date": "2026-09-01T09:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "2.5%",
+      "previous": "2.5%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI Flash Estimate y/y",
+      "country": "EUR",
+      "date": "2026-09-01T09:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "3.3%",
+      "previous": "2.9%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ISM Manufacturing PMI",
+      "country": "USD",
+      "date": "2026-09-01T14:00:00+00:00",
+      "impact": "High",
+      "forecast": "55.2",
+      "previous": "55.6",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ISM Manufacturing Prices",
+      "country": "USD",
+      "date": "2026-09-01T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "71.2",
+      "previous": "71.1",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "JOLTS Job Openings",
+      "country": "USD",
+      "date": "2026-09-01T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "7.33M",
+      "previous": "7.36M",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "GDP q/q",
+      "country": "AUD",
+      "date": "2026-09-02T01:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.3%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ADP Non-Farm Employment Change",
+      "country": "USD",
+      "date": "2026-09-02T12:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "47K",
+      "previous": "44K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOC Rate Statement",
+      "country": "CAD",
+      "date": "2026-09-02T13:45:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Overnight Rate",
+      "country": "CAD",
+      "date": "2026-09-02T13:45:00+00:00",
+      "impact": "High",
+      "forecast": "2.25%",
+      "previous": "2.25%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOC Press Conference",
+      "country": "CAD",
+      "date": "2026-09-02T14:30:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "205K",
+      "previous": "203K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ISM Services PMI",
+      "country": "USD",
+      "date": "2026-09-03T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "54.1",
+      "previous": "54.1",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-09-04T08:50:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Employment Change",
+      "country": "CAD",
+      "date": "2026-09-04T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "15.8K",
+      "previous": "75.1K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "CAD",
+      "date": "2026-09-04T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "6.4%",
+      "previous": "6.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Average Hourly Earnings m/m",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.1%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Non-Farm Employment Change",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "58K",
+      "previous": "-23K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "4.1%",
+      "previous": "4.1%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Ivey PMI",
+      "country": "CAD",
+      "date": "2026-09-04T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "56.2",
+      "previous": "55.1",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
     }
