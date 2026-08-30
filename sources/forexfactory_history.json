@@ -8,59 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-08-30T04:46:04.292469+00:00",
+  "last_updated": "2026-08-30T13:41:45.991238+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "BOJ Press Conference",
-      "country": "JPY",
-      "date": "2026-07-31T06:30:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Core CPI Flash Estimate y/y",
-      "country": "EUR",
-      "date": "2026-07-31T09:00:00+00:00",
-      "impact": "Medium",
-      "forecast": "2.4%",
-      "previous": "2.4%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "CPI Flash Estimate y/y",
-      "country": "EUR",
-      "date": "2026-07-31T09:00:00+00:00",
-      "impact": "Medium",
-      "forecast": "2.9%",
-      "previous": "2.8%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "GDP m/m",
-      "country": "CAD",
-      "date": "2026-07-31T12:30:00+00:00",
-      "impact": "High",
-      "forecast": "0.2%",
-      "previous": "0.5%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Employment Cost Index q/q",
-      "country": "USD",
-      "date": "2026-07-31T12:30:00+00:00",
-      "impact": "Medium",
-      "forecast": "0.8%",
-      "previous": "0.9%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "Revised UoM Consumer Sentiment",
       "country": "USD",
