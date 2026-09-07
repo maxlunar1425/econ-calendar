@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-09-06T22:01:30.969296+00:00",
+  "last_updated": "2026-09-07T03:54:51.841173+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -822,6 +822,26 @@
       "note": ""
     },
     {
+      "title": "Monetary Policy Report Hearings",
+      "country": "GBP",
+      "date": "2026-09-08T13:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-09-09T17:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
       "title": "Main Refinancing Rate",
       "country": "EUR",
       "date": "2026-09-10T12:15:00+00:00",
@@ -948,6 +968,16 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.3%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-09-11T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
     },
