@@ -8,29 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-09-18T04:04:28.031385+00:00",
+  "last_updated": "2026-09-18T12:49:50.422339+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "CPI y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00+00:00",
-      "impact": "High",
-      "forecast": "2.9%",
-      "previous": "2.6%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "ECB President Lagarde Speaks",
-      "country": "EUR",
-      "date": "2026-08-19T10:15:00+00:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "FOMC Meeting Minutes",
       "country": "USD",
@@ -962,22 +942,22 @@
       "note": ""
     },
     {
-      "title": "BOJ Press Conference",
-      "country": "JPY",
-      "date": "2026-09-18T05:30:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
       "title": "Retail Sales m/m",
       "country": "GBP",
       "date": "2026-09-18T06:00:00+00:00",
       "impact": "Medium",
       "forecast": "-0.2%",
       "previous": "-0.5%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOJ Press Conference",
+      "country": "JPY",
+      "date": "2026-09-18T06:30:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
     },
