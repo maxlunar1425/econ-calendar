@@ -8,19 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-09-23T13:30:01.791114+00:00",
+  "last_updated": "2026-09-23T19:34:39.135314+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "Treasury Sec Bessent Speaks",
-      "country": "USD",
-      "date": "2026-08-24T17:00:00+00:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "CB Consumer Confidence",
       "country": "USD",
@@ -976,7 +966,7 @@
       "country": "AUD",
       "date": "2026-09-24T01:30:00+00:00",
       "impact": "High",
-      "forecast": "22.5K",
+      "forecast": "21.5K",
       "previous": "-15.8K",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
