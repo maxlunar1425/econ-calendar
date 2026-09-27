@@ -8,49 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-09-27T13:43:47.216402+00:00",
+  "last_updated": "2026-09-27T19:39:44.247571+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "Fed Chairman Warsh Speaks",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Prelim Benchmark Payrolls Revision",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "-911K",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Revised UoM Consumer Sentiment",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00+00:00",
-      "impact": "Medium",
-      "forecast": "51.0",
-      "previous": "51.0",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Revised UoM Inflation Expectations",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00+00:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "4.3%",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "German Prelim CPI m/m",
       "country": "EUR",
