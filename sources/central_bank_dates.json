@@ -13,9 +13,9 @@
     "fall back to their last-known-good data (marked STALE in the note)",
     "rather than disappearing -- check scraper_errors below for failures.",
     "",
-    "Last generated: 2026-09-21"
+    "Last generated: 2026-09-28"
   ],
-  "last_verified": "2026-09-21",
+  "last_verified": "2026-09-28",
   "sources": {
     "USD_FOMC": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
     "EUR_ECB": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
@@ -68,13 +68,6 @@
       "date": "2026-09-17",
       "time_utc": "11:00",
       "note": "Rate decision"
-    },
-    {
-      "bank": "SNB",
-      "country": "CHF",
-      "date": "2026-09-24",
-      "time_utc": "08:30",
-      "note": "Rate decision (09:30 local Swiss time, CET/CEST approximation applied)"
     },
     {
       "bank": "FOMC",
