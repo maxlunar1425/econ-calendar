@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-10-03T22:46:25.861667+00:00",
+  "last_updated": "2026-10-04T05:14:34.210670+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -1078,6 +1078,106 @@
       "impact": "Holiday",
       "forecast": "",
       "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "AUD",
+      "date": "2026-10-04T20:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ISM Services PMI",
+      "country": "USD",
+      "date": "2026-10-05T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "55.1",
+      "previous": "55.4",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOJ Gov Ueda Speaks",
+      "country": "JPY",
+      "date": "2026-10-06T06:35:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Ivey PMI",
+      "country": "CAD",
+      "date": "2026-10-06T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "65.2",
+      "previous": "64.3",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "FOMC Meeting Minutes",
+      "country": "USD",
+      "date": "2026-10-07T18:00:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-10-08T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "200K",
+      "previous": "197K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Employment Change",
+      "country": "CAD",
+      "date": "2026-10-09T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "9.0K",
+      "previous": "-41.7K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "CAD",
+      "date": "2026-10-09T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "6.5%",
+      "previous": "6.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Prelim UoM Consumer Sentiment",
+      "country": "USD",
+      "date": "2026-10-09T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "47.6",
+      "previous": "47.8",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Prelim UoM Inflation Expectations",
+      "country": "USD",
+      "date": "2026-10-09T14:00:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "4.6%",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
     }
