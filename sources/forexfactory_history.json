@@ -8,7 +8,7 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-10-10T23:21:25.094934+00:00",
+  "last_updated": "2026-10-11T05:05:30.958957+00:00",
   "lookback_days": 30,
   "events": [
     {
@@ -1028,6 +1028,246 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.6%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "JPY",
+      "date": "2026-10-11T23:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "USD",
+      "date": "2026-10-12T11:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Bank Holiday",
+      "country": "CAD",
+      "date": "2026-10-12T12:00:00+00:00",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-10-14T05:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOC Gov Macklem Speaks",
+      "country": "CAD",
+      "date": "2026-10-14T06:05:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-10-14T08:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core CPI m/m",
+      "country": "USD",
+      "date": "2026-10-14T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.2%",
+      "previous": "0.3%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core CPI y/y",
+      "country": "USD",
+      "date": "2026-10-14T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "2.5%",
+      "previous": "2.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI m/m",
+      "country": "USD",
+      "date": "2026-10-14T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.6%",
+      "previous": "0.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "CPI y/y",
+      "country": "USD",
+      "date": "2026-10-14T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "3.6%",
+      "previous": "3.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Employment Change",
+      "country": "AUD",
+      "date": "2026-10-15T00:30:00+00:00",
+      "impact": "High",
+      "forecast": "20.0K",
+      "previous": "39.5K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "AUD",
+      "date": "2026-10-15T00:30:00+00:00",
+      "impact": "High",
+      "forecast": "4.6%",
+      "previous": "4.6%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "GDP m/m",
+      "country": "GBP",
+      "date": "2026-10-15T06:00:00+00:00",
+      "impact": "High",
+      "forecast": "-0.1%",
+      "previous": "0.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-10-15T07:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core PPI m/m",
+      "country": "USD",
+      "date": "2026-10-15T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Core Retail Sales m/m",
+      "country": "USD",
+      "date": "2026-10-15T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.5%",
+      "previous": "1.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "PPI m/m",
+      "country": "USD",
+      "date": "2026-10-15T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.5%",
+      "previous": "0.4%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Retail Sales m/m",
+      "country": "USD",
+      "date": "2026-10-15T12:30:00+00:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "1.2%",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Philly Fed Manufacturing Index",
+      "country": "USD",
+      "date": "2026-10-15T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "26.5",
+      "previous": "37.8",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-10-15T12:30:00+00:00",
+      "impact": "Medium",
+      "forecast": "195K",
+      "previous": "197K",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-10-16T02:00:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "Fed Chairman Warsh Speaks",
+      "country": "USD",
+      "date": "2026-10-16T03:30:00+00:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOC Gov Macklem Speaks",
+      "country": "CAD",
+      "date": "2026-10-16T04:15:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "source": "https://www.forexfactory.com/calendar",
+      "note": ""
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-10-17T06:45:00+00:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
     }
