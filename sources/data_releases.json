@@ -10,9 +10,9 @@
     "watched_releases.json. To fix a parsing bug, fix the relevant scraper",
     "(bls_scraper.py / bea_scraper.py), not this file.",
     "",
-    "Last generated: 2026-10-05"
+    "Last generated: 2026-10-12"
   ],
-  "last_verified": "2026-10-05",
+  "last_verified": "2026-10-12",
   "sources": {
     "BLS": "https://www.bls.gov/schedule/news_release/bls.ics",
     "BEA": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
@@ -20,14 +20,6 @@
   },
   "scraper_errors": [],
   "events": [
-    {
-      "bank": "DOL",
-      "country": "USD",
-      "release": "Unemployment Insurance Weekly Claims Report",
-      "date": "2026-07-09",
-      "time_utc": "12:30",
-      "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
-    },
     {
       "bank": "BLS",
       "country": "USD",
@@ -541,6 +533,14 @@
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, December 2026",
+      "date": "2027-01-28",
+      "time_utc": "13:30",
+      "note": "Personal Income and Outlays, December 2026 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -571,6 +571,14 @@
       "date": "2027-02-18",
       "time_utc": "13:30",
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, January 2027",
+      "date": "2027-02-25",
+      "time_utc": "13:30",
+      "note": "Personal Income and Outlays, January 2027 release (BEA feed is already in UTC, no conversion needed)"
     },
     {
       "bank": "DOL",
@@ -613,6 +621,14 @@
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, February 2027",
+      "date": "2027-03-31",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, February 2027 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -645,6 +661,14 @@
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, March 2027",
+      "date": "2027-04-29",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, March 2027 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -675,6 +699,14 @@
       "date": "2027-05-20",
       "time_utc": "12:30",
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, April 2027",
+      "date": "2027-05-27",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, April 2027 release (BEA feed is already in UTC, no conversion needed)"
     },
     {
       "bank": "DOL",
@@ -717,6 +749,14 @@
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, May 2027",
+      "date": "2027-06-25",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, May 2027 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -749,6 +789,14 @@
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, June 2027",
+      "date": "2027-07-29",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, June 2027 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -779,6 +827,14 @@
       "date": "2027-08-19",
       "time_utc": "12:30",
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, July 2027",
+      "date": "2027-08-25",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, July 2027 release (BEA feed is already in UTC, no conversion needed)"
     },
     {
       "bank": "DOL",
@@ -821,6 +877,14 @@
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, August 2027",
+      "date": "2027-09-30",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, August 2027 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -851,6 +915,14 @@
       "date": "2027-10-21",
       "time_utc": "12:30",
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, September 2027",
+      "date": "2027-10-28",
+      "time_utc": "12:30",
+      "note": "Personal Income and Outlays, September 2027 release (BEA feed is already in UTC, no conversion needed)"
     },
     {
       "bank": "DOL",
@@ -885,6 +957,14 @@
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
     },
     {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, October 2027",
+      "date": "2027-11-24",
+      "time_utc": "13:30",
+      "note": "Personal Income and Outlays, October 2027 release (BEA feed is already in UTC, no conversion needed)"
+    },
+    {
       "bank": "DOL",
       "country": "USD",
       "release": "Unemployment Insurance Weekly Claims Report",
@@ -915,6 +995,14 @@
       "date": "2027-12-16",
       "time_utc": "13:30",
       "note": "Jobless Claims (weekly); exact EST/EDT conversion via IANA tz data"
+    },
+    {
+      "bank": "BEA",
+      "country": "USD",
+      "release": "Personal Income and Outlays, November 2027",
+      "date": "2027-12-22",
+      "time_utc": "13:30",
+      "note": "Personal Income and Outlays, November 2027 release (BEA feed is already in UTC, no conversion needed)"
     },
     {
       "bank": "DOL",
