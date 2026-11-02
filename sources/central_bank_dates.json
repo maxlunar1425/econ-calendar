@@ -13,9 +13,9 @@
     "fall back to their last-known-good data (marked STALE in the note)",
     "rather than disappearing -- check scraper_errors below for failures.",
     "",
-    "Last generated: 2026-10-26"
+    "Last generated: 2026-11-02"
   ],
-  "last_verified": "2026-10-26",
+  "last_verified": "2026-11-02",
   "sources": {
     "USD_FOMC": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
     "EUR_ECB": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
@@ -34,20 +34,6 @@
     "BOJ 2027: FAILED to scrape -- Could not find '## 2027' heading on page"
   ],
   "events": [
-    {
-      "bank": "FOMC",
-      "country": "USD",
-      "date": "2026-07-29",
-      "time_utc": "18:00",
-      "note": "Rate decision (2nd day of 2-day meeting); press conf 18:30 UTC"
-    },
-    {
-      "bank": "BOE",
-      "country": "GBP",
-      "date": "2026-07-30",
-      "time_utc": "11:00",
-      "note": "Rate decision + Monetary Policy Report"
-    },
     {
       "bank": "RBA",
       "country": "AUD",
@@ -75,13 +61,6 @@
       "date": "2026-10-28",
       "time_utc": "18:00",
       "note": "Rate decision (2nd day of 2-day meeting)"
-    },
-    {
-      "bank": "ECB",
-      "country": "EUR",
-      "date": "2026-10-29",
-      "time_utc": "12:15",
-      "note": "Rate decision; press conference follows"
     },
     {
       "bank": "BOE",
