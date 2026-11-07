@@ -8,39 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-11-07T05:27:01.213351+00:00",
+  "last_updated": "2026-11-07T14:47:36.678286+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "FOMC Member Waller Speaks",
-      "country": "USD",
-      "date": "2026-10-08T08:30:00+00:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "BOE Gov Bailey Speaks",
-      "country": "GBP",
-      "date": "2026-10-08T12:15:00+00:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Unemployment Claims",
-      "country": "USD",
-      "date": "2026-10-08T12:30:00+00:00",
-      "impact": "Medium",
-      "forecast": "200K",
-      "previous": "197K",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "Employment Change",
       "country": "CAD",
