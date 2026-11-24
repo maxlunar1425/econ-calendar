@@ -8,29 +8,9 @@
     "DO NOT hand-edit -- overwritten on every run.",
     "LOOKBACK_DAYS = 30"
   ],
-  "last_updated": "2026-11-23T14:13:58.355157+00:00",
+  "last_updated": "2026-11-24T02:48:42.270284+00:00",
   "lookback_days": 30,
   "events": [
-    {
-      "title": "Daylight Saving Time Shift",
-      "country": "EUR",
-      "date": "2026-10-25T01:00:00+00:00",
-      "impact": "Holiday",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
-    {
-      "title": "Daylight Saving Time Shift",
-      "country": "GBP",
-      "date": "2026-10-25T01:00:00+00:00",
-      "impact": "Holiday",
-      "forecast": "",
-      "previous": "",
-      "source": "https://www.forexfactory.com/calendar",
-      "note": ""
-    },
     {
       "title": "CB Consumer Confidence",
       "country": "USD",
@@ -1146,7 +1126,7 @@
       "country": "USD",
       "date": "2026-11-24T15:00:00+00:00",
       "impact": "Medium",
-      "forecast": "92.1",
+      "forecast": "92.4",
       "previous": "91.7",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
@@ -1176,7 +1156,7 @@
       "country": "AUD",
       "date": "2026-11-25T00:30:00+00:00",
       "impact": "High",
-      "forecast": "4.8%",
+      "forecast": "4.7%",
       "previous": "4.3%",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
@@ -1246,7 +1226,7 @@
       "country": "JPY",
       "date": "2026-11-26T23:30:00+00:00",
       "impact": "Medium",
-      "forecast": "2.9%",
+      "forecast": "3.0%",
       "previous": "2.6%",
       "source": "https://www.forexfactory.com/calendar",
       "note": ""
